@@ -16,3 +16,6 @@ Learning new things since 1994. 😃
 [LinkedIn](https://www.linkedin.com/in/caique-lima1/)
 
 [Lattes](http://lattes.cnpq.br/0894764660082882)
+
+
+#### Use the sidebar for discovery more!
