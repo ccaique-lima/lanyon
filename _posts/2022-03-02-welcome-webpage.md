@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Introducing
+title: Welcome!
 ---
 
-Welcome! Here, you can find more information about me.
+Here, you can find more information about me.
 
 ### Bio
 
