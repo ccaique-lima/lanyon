@@ -18,4 +18,4 @@ Learning new things since 1994. 😃
 [Lattes](http://lattes.cnpq.br/0894764660082882)
 
 
-#### Use the sidebar for discovery more!
+#### Use the sidebar to find out more!
