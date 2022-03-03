@@ -32,34 +32,3 @@ He was born in Campinas-SP and since 1994 he has learned incredible things. His 
 </a>
 
 
-<!DOCTYPE html>
-<html>
-<head>
-  <meta charset=utf-8 />
-  <title></title>
-  <style>
-    div.container {
-      display:inline-block;
-    }
-
-    p {
-      text-align:center;
-    }
-  </style>
-</head>
-<body>
-  <div class="container">
-    <img src="http://placehold.it/350x150" height="200" width="200" />
-    <p>This is image 1</p>
-  </div>
-  <div class="container">
-    <img class="middle-img" src="http://placehold.it/350x150"/ height="200" width="200" />
-    <p>This is image 2</p>
-  </div>
-  <div class="container">
-    <img src="http://placehold.it/350x150" height="200" width="200" />
-    <p>This is image 3</p>
-  </div>
-</div>
-</body>
-</html>
