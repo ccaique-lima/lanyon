@@ -5,6 +5,8 @@ title: Teaching
 
 ### Physics III
 #### 1st SEM, 2017.
+#### Topics: Coulomb's Law, Magnetic Field and Electromagnetic Oscillations. 
+#### Supervisor: Werner Martins Vieira.
 
 SEM
 
