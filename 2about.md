@@ -17,7 +17,8 @@ title: About Me
 <a href="http://lattes.cnpq.br/0894764660082882">
   <img src="https://raw.githubusercontent.com/ccaique-lima/webpage/gh-pages/assets/icon_lattes.png" width="45px" height="auto" align="left" hspace="5">
 </a>
-<br />
+<br/>
+<br/>
 
 Caique Lima is an electronics engineer graduated from [UNISAL](https://unisal.br) in 2019. Currently, is a M.Eng. Student in Electrical Engineering at the Department of Electrical Engineering from [UFSCar](https://www.ufscar.br), funded by [CAPES](https://www.gov.br/capes/pt-br).
 
