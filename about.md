@@ -5,6 +5,10 @@ title: About
 
 Caique Lima is an electronics engineer graduated from [UNISAL](https://unisal.br) in 2019. Currently, is M.Sc. Student in Electrical Engineering at the Department of Electrical Engineering from [UFSCar](https://www.ufscar.br), funded by [CAPES](https://www.gov.br/capes/pt-br).
 
+Since 2017 he has been working with scientific research and teaching, funded by [UNISAL](https://unisal.br).
+
+In his master's research, he worked with PPG signals, motion artifact removal, machine learning, signal processing and wearables.
+
 ### Social Media
 
 [LinkedIn](https://www.linkedin.com/in/caique-lima1/)
