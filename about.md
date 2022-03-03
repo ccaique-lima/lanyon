@@ -21,12 +21,6 @@ He was born in Campinas-SP and since 1994 he has learned incredible things. His 
 
 ### Social Media
 
-[LinkedIn](https://www.linkedin.com/in/caique-lima1/)
-
-[Lattes](http://lattes.cnpq.br/0894764660082882)
-
-
-
 <a href="http://lattes.cnpq.br/0894764660082882">
   <img src="https://raw.githubusercontent.com/ccaique-lima/webpage/gh-pages/assets/icon_lattes.png" width="30px" height="auto">
 </a>
