@@ -28,7 +28,7 @@ He was born in Campinas-SP and since 1994 he has learned incredible things. His 
 
 
 <a href="http://lattes.cnpq.br/0894764660082882">
-  <img src="https://raw.githubusercontent.com/ccaique-lima/webpage/gh-pages/assets/icon_lattes.png" width="10px" height="auto">
+  <img src="https://raw.githubusercontent.com/ccaique-lima/webpage/gh-pages/assets/icon_lattes.png" width="30px" height="auto">
 </a>
 
 
