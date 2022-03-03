@@ -6,16 +6,16 @@ title: Tiny CV
 ### Education
 
 #### Federal University of Sao Carlos, 2022
-#### M.Eng. in Electrical Engineering
-#### GPA 4.0
+##### M.Eng. in Electrical Engineering
+##### GPA 4.0
 
 #### Salesian University Center of Sao Paulo, 2019
-#### BEng in Electrical Engineering, Electronics
-#### GPA 3.1
+##### BEng in Electrical Engineering, Electronics
+##### GPA 3.1
 
 #### National Service for Industrial Training, 2014
-#### Electromechanical technician
+##### Electromechanical technician
 
 #### Dr. Leandro Franceschini Municipal School, 2012
-#### Business administration and management technician
+##### Business administration and management technician
 
