@@ -4,7 +4,7 @@ title: Teaching
 ---
 
 ### Control Systems Engineering
-#### 2nd SEM, 2021.
+##### 2nd SEM, 2021.
 #### Supervised Internship Program for Teacher Training (PESCD) at the Department of Electrical Engineering from Federal University of São Carlos.
 #### Supervisors: Tatiana de Figueiredo Pereira Alves Taveira Pazelli and André Carmona Hernandes.
 
