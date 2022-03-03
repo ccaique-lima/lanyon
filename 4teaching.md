@@ -9,26 +9,26 @@ title: Teaching
 #### Supervisors: Tatiana de Figueiredo Pereira Alves Taveira Pazelli and André Carmona Hernandes.
 
 ### Physics II
-#### 2nd SEM, 2019.
+##### 2nd SEM, 2019.
 #### Topics: Coulomb's Law, Magnetic Field and Electromagnetic Oscillations. 
 #### Supervisor: Werner Martins Vieira.
 
 ### Linear Systems
-#### 2nd SEM, 2018.
+##### 2nd SEM, 2018.
 #### The Laws of Motion, Vectors, Work and Kinetic Energy.
 #### Supervisor: Pedro Roberto Grosso. 
 
 ### Signals & Systems
-#### 1st SEM, 2018.
+##### 1st SEM, 2018.
 #### Topics: Continuous-Time Signals and Systems, Fourier Series, Fourier Transform, Nyquist Sampling Theorem and Laplace Transform. 
 #### Supervisor: Fernando Oscar Runstein.
 
 ### Vector Mechanics
-#### 2nd SEM, 2017.
+##### 2nd SEM, 2017.
 #### Topics: Statics of Particles, Rigid Bodies and Equivalent Systems of Forces.
 #### Supervisor: Eugenio Benito Junior. 
 
 ### Physics III
-#### 1st SEM, 2017.
+##### 1st SEM, 2017.
 #### Topics: Coulomb's Law, Magnetic Field and Electromagnetic Oscillations. 
 #### Supervisor: Werner Martins Vieira.
