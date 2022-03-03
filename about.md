@@ -27,7 +27,7 @@ He was born in Campinas-SP and since 1994 he has learned incredible things. His 
 
 
 
-<a href="https://www.qries.com/">
-    <img alt="Qries" src="https://www.qries.com/images/banner_logo.png"
-    width=150" height="70"></a>
+<p><a href="https://www.w3schools.com">
+<img src="w3html.gif" alt="W3Schools.com" width="100" height="132">
+</a></p>
 
