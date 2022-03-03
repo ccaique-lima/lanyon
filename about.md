@@ -3,7 +3,11 @@ layout: page
 title: About Me
 ---
 
-![Profile picture.](/assets/profile_pic.jpg)
+<!--![Profile picture.](/assets/profile_pic.jpg) -->
+
+<img src="https://github.com/ccaique-lima/webpage/blob/gh-pages/assets/profile_pic.jpg" 
+     width=400px 
+     height=auto />
 
 Caique Lima is an electronics engineer graduated from [UNISAL](https://unisal.br) in 2019. Currently, is a M.Sc. Student in Electrical Engineering at the Department of Electrical Engineering from [UFSCar](https://www.ufscar.br), funded by [CAPES](https://www.gov.br/capes/pt-br).
 
