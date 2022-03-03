@@ -5,7 +5,7 @@ title: About Me
 
 <!--![Profile picture.](/assets/profile_pic.jpg) -->
 
-<img src="https://github.com/ccaique-lima/webpage/blob/gh-pages/assets/profile_pic.jpg" 
+<img src=(/assets/profile_pic.jpg) 
      width=200px, 
      height=auto />
 
