@@ -1,35 +1,89 @@
-<form id="contact-form" class="contact-form" method="post" data-success="Message successfully sent!">
+.contact-form {
+  h4 {
+    color: #668944;
+    margin-left: 20px;
+  }
+  label {
+    width: 100px;
+    margin: 5px 0;
+    display: inline-block;
+    vertical-align: top;
+  }
+  input, textarea, .recaptcha, button {
+    margin: 5px 0;
+    padding: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+    border: 1px solid #bbb;
 
-  <label for="name">Name</label>
-  <input id="name" type="text" name="name" class="field" required autofocus /><br/>
+    &:focus {
+      outline-color: @accent-color;
+    }
+  }
+  input.field, textarea {
+    min-width: 330px;
+  }
+  input[name=subject], textarea {
+    width: 73%;
+  }
+  textarea {
+    height: 150px;
+  }
+  button {
+    border: 0;
+    background-color: @accent-color;
+    padding: 8px 20px;
+    color: #fff;
+    margin-top: 20px;
 
-  <label for="email">E-mail</label>
-  <input id="email" type="email" name="email" class="field" required /><br/>
+    &:hover {
+      background-color: darken(@accent-color, 10%);
+      color: darken(#fff, 10%);
+    }
+  }
+  .notice {
+    display: none;
+    background-color: #f2dede;
+    border: 1px solid #ebccd1;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+    padding: 10px 15px;
+    color: #a94442;
+    margin-top: 15px;
+  }
+  .recaptcha {
+    padding: 0;
+    display: inline-block;
 
-  <label for="subject">Subject</label>
-  <input id="subject" type="text" name="subject" class="field" required /><br/>
+    div.image {
+      -webkit-border-radius: 5px 5px 0 0;
+      -moz-border-radius: 5px 5px 0 0;
+      border-radius: 5px 5px 0 0;
+      padding: 10px;
+      background-color: #fff;
+      width: 320px;
 
-  <label for="message">Message</label>
-  <textarea id="message" name="message" required ></textarea><br/>
+      br {
+        display: none;
+      }
+      embed, span {
+        float: left;
+        clear: both;
+        a {
+          cursor: pointer;
+          font-size: 0.9em;
+        }
+      }
+    }
 
-  <label for="recaptcha_response_field">Captcha</label>
-  <div id="recaptcha_widget" class="recaptcha">
-    <div class="image">
-      <div id="recaptcha_image"></div>
-    </div>
+    div.headline {
+      padding: 5px 5px 0 10px;
+    }
 
-    <div class="headline recaptcha_only_if_image">Enter the words above:</div>
-    <div class="headline recaptcha_only_if_audio">Enter the numbers you hear:</div>
-
-    <input type="text" id="recaptcha_response_field" name="recaptcha_response_field" required />
-
-    <span class="recaptcha_icon"><a href="javascript:Recaptcha.reload()"><i class="fa fa-refresh"></i></a></span>
-    <span class="recaptcha_icon recaptcha_only_if_image"><a href="javascript:Recaptcha.switch_type('audio')"><i class="fa fa-volume-up"></i></a></span>
-    <span class="recaptcha_icon recaptcha_only_if_audio"><a href="javascript:Recaptcha.switch_type('image')"><i class="fa fa-font"></i></a></span>
-    <span class="recaptcha_icon"><a href="javascript:Recaptcha.showhelp()"><i class="fa fa-question-circle"></i></a></span>
-  </div><br/>
-  <div id="notice" class="notice" data-captcha-failed="Incorrect captcha!" data-error="There was an error sending the message, please try again."></div>
-  <button type="submit">Send</button>
-</form>
-
-<script type="text/javascript" src="http://www.google.com/recaptcha/api/js/recaptcha_ajax.js"></script>
+    input[type=text] {
+      margin: 10px;
+    }
+  }
+}
