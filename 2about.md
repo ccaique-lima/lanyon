@@ -47,3 +47,9 @@ He was born in Campinas-SP and since 1994 he has learned incredible things. His 
   </table>
   <!--<figcaption>Caption describing these two images.</figcaption> -->
 </figure>
+
+<p>Some Text above</p>
+<img src="http://urlref.at/images/3o.gif" align="left" hspace="20" />
+<img src="http://urlref.at/images/3o.gif" align="left" hspace="20" />
+<img src="http://urlref.at/images/3o.gif" hspace="20" />
+<p>Some Text underneath</p>
