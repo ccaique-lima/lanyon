@@ -21,18 +21,17 @@ He was born in Campinas-SP and since 1994 he has learned incredible things. His 
 
 ### Social Media
 
-<a href="http://lattes.cnpq.br/0894764660082882">
-  <img src="https://raw.githubusercontent.com/ccaique-lima/webpage/gh-pages/assets/icon_lattes.png" width="30px" height="auto">
-</a>
 
-<a href="https://www.linkedin.com/in/caique-lima1/">
-  <img src="https://raw.githubusercontent.com/ccaique-lima/webpage/gh-pages/assets/icon_linkedin.png" width="30px" height="auto">
-</a>
+
+
 
 
 
 <p>Some Text above</p>
-<img src="http://urlref.at/images/3o.gif" align="left" hspace="20" />
-<img src="http://urlref.at/images/3o.gif" align="left" hspace="20" />
-<img src="http://urlref.at/images/3o.gif" hspace="20" />
+<a href="https://www.linkedin.com/in/caique-lima1/">
+  <img src="https://raw.githubusercontent.com/ccaique-lima/webpage/gh-pages/assets/icon_linkedin.png" width="30px" height="auto" align="left" hspace="20">
+</a>
+<a href="http://lattes.cnpq.br/0894764660082882">
+  <img src="https://raw.githubusercontent.com/ccaique-lima/webpage/gh-pages/assets/icon_lattes.png" width="30px" height="auto" align="left" hspace="20">
+</a>
 <p>Some Text underneath</p>
