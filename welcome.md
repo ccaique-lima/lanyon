@@ -11,11 +11,6 @@ I’m a brazillian electronics engineer taking a master’s degree in Electrical
 
 Learning new things since 1994. 😃
 
-### Social Media
-
-[LinkedIn](https://www.linkedin.com/in/caique-lima1/)
-
-[Lattes](http://lattes.cnpq.br/0894764660082882)
 
 
 #### Use the sidebar to find out more!
