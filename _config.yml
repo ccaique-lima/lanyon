@@ -20,4 +20,4 @@ plugins:
 # Custom vars
 version:             1.1.0
 google_analytics_id: G-8Q35CYZD9Q
-google_analytics: G-8Q35CYZD9Q
+# google_analytics: G-8Q35CYZD9Q
