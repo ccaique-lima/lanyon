@@ -28,5 +28,3 @@ He was born in Campinas-SP and since 1994 he has learned incredible things. His 
 <a href="https://www.linkedin.com/in/caique-lima1/">
   <img src="https://raw.githubusercontent.com/ccaique-lima/webpage/gh-pages/assets/icon_linkedin.png" width="30px" height="auto">
 </a>
-
-
