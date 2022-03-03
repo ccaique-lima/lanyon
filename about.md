@@ -35,41 +35,31 @@ He was born in Campinas-SP and since 1994 he has learned incredible things. His 
 <!DOCTYPE html>
 <html>
 <head>
-<style>
-* {
-  box-sizing: border-box;
-}
+  <meta charset=utf-8 />
+  <title></title>
+  <style>
+    div.container {
+      display:inline-block;
+    }
 
-.column {
-  float: left;
-  width: 33.33%;
-  padding: 5px;
-}
-
-/* Clearfix (clear floats) */
-.row::after {
-  content: "";
-  clear: both;
-  display: table;
-}
-</style>
+    p {
+      text-align:center;
+    }
+  </style>
 </head>
 <body>
-
-<h2>Images Side by Side</h2>
-<p>How to create side-by-side images with the CSS float property:</p>
-
-<div class="row">
-  <div class="column">
-    <img src="img_snow.jpg" alt="Snow" style="width:100%">
+  <div class="container">
+    <img src="http://placehold.it/350x150" height="200" width="200" />
+    <p>This is image 1</p>
   </div>
-  <div class="column">
-    <img src="img_forest.jpg" alt="Forest" style="width:100%">
+  <div class="container">
+    <img class="middle-img" src="http://placehold.it/350x150"/ height="200" width="200" />
+    <p>This is image 2</p>
   </div>
-  <div class="column">
-    <img src="img_mountains.jpg" alt="Mountains" style="width:100%">
+  <div class="container">
+    <img src="http://placehold.it/350x150" height="200" width="200" />
+    <p>This is image 3</p>
   </div>
 </div>
-
 </body>
 </html>
