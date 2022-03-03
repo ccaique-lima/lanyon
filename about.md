@@ -3,11 +3,11 @@ layout: page
 title: About Me
 ---
 
-<!--![Profile picture.](/assets/profile_pic.jpg) -->
+<!--![Profile picture.](/assets/profile_pic.jpg) 
 
-    <img src="https://github.com/ccaique-lima/webpage/blob/0ef2db712d5a7461c19fee08ea24be3f672f6511/assets/profile_pic.jpg"
-         width=200px; 
-         height=auto />
+<img src="https://github.com/ccaique-lima/webpage/blob/0ef2db712d5a7461c19fee08ea24be3f672f6511/assets/profile_pic.jpg"
+     width=200px;
+     height=auto /> -->
      
 <img src="https://github.com/ccaique-lima/webpage/blob/0ef2db712d5a7461c19fee08ea24be3f672f6511/assets/profile_pic.jpg" width="50%" height="50%">
 
