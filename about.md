@@ -26,7 +26,9 @@ He was born in Campinas-SP and since 1994 he has learned incredible things. His 
 [Lattes](http://lattes.cnpq.br/0894764660082882)
 
 
-
+<a href="https://www.qries.com/">
+    <img alt="Qries" src="https://www.qries.com/images/banner_logo.png"
+    width=150" height="70">
 
 
 
