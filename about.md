@@ -27,7 +27,7 @@ He was born in Campinas-SP and since 1994 he has learned incredible things. His 
 
 
 
-<p><a href="https://www.w3schools.com">
-<img src="w3html.gif" alt="W3Schools.com" width="100" height="132">
-</a></p>
+<a href="https://pagedart.com">
+  <img src="https://raw.githubusercontent.com/ccaique-lima/webpage/gh-pages/assets/profile_pic.jpg">
+</a>
 
