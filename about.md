@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-Caique Lima is an electronics engineer graduated from [UNISAL](https://unisal.br) in 2019. Currently, is M.Sc. Student in Electrical Engineering at [CAPES](https://www.gov.br/capes/pt-br)
+Caique Lima is an electronics engineer graduated from [UNISAL](https://unisal.br) in 2019. Currently, is M.Sc. Student in Electrical Engineering at Department of Electrical Engineering at [UFSCar](https://www.ufscar.br), funded by [CAPES](https://www.gov.br/capes/pt-br).
 
 ### Social Media
 
