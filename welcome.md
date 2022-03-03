@@ -1,29 +1,21 @@
 ---
-layout: page
-title: About
+layout: post
+title: Welcome!
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+Here, you can find more information about me.
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+### Bio
 
-There are currently two themes built on Poole:
+I’m a brazillian electronics engineer taking a master’s degree in Electrical Engineering at Federal University of São Carlos. My line of research is Digital Signal Processing. My research interests include Internet of Things, Health 4.0, machine learning, wearables and pulse oximeters.
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+Learning new things since 1994. 😃
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+### Social Media
 
-## Setup
+[LinkedIn](https://www.linkedin.com/in/caique-lima1/)
 
-Some fun facts about the setup of this project include:
+[Lattes](http://lattes.cnpq.br/0894764660082882)
 
-* Built for [Jekyll](https://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Atom](https://atom.io)
 
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
+#### Use the sidebar to find out more!
