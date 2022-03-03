@@ -3,7 +3,7 @@ title:               Caique Lima
 tagline:             'BEng'
 description:         ''
 url:                 https://ccaique-lima.github.io
-baseurl:             '/webpage/1welcome'
+baseurl:             '/webpage'
 paginate:            5
 permalink:           pretty
 
