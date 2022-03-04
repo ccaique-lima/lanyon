@@ -9,6 +9,11 @@ title: Contact Me
 #### I will try to answer as soon as possible!
 
 
+<head>
+  <title>reCAPTCHA demo: Simple page</title>
+  <script src="https://www.google.com/recaptcha/api.js" async defer></script>
+</head>
+
 <form id="fs-frm" name="simple-contact-form" accept-charset="utf-8" action="https://formspree.io/f/xleznwww" method="post">
   <fieldset id="fs-frm-inputs">
     <label for="full-name">Name</label>  <br>
