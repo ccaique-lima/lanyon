@@ -10,13 +10,13 @@ title: Teaching
 
 ### Physics II
 ##### 2nd SEM, 2019
-#### Topics: Coulomb's Law, Magnetic Field and Electromagnetic Oscillations
-#### Supervisor: Werner Martins Vieira
+#### The Laws of Motion, Vectors, Work and Kinetic Energy
+#### Supervisor: Pedro Roberto Grosso
 
 ### Linear Systems
 ##### 2nd SEM, 2018
-#### The Laws of Motion, Vectors, Work and Kinetic Energy
-#### Supervisor: Pedro Roberto Grosso
+#### Topics: Modeling in the Frequency Domain, Time Response, Stability, Steady-State Errors and Root Locus Techniques
+#### Supervisor: Fernando Oscar Runstein
 
 ### Signals & Systems
 ##### 1st SEM, 2018
