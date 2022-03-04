@@ -35,4 +35,9 @@ title: Tiny CV
 ##### Researcher and Student Tutor
 
 
+### Honors & Awards
+
+#### Honorable Mention in 19º National Congress of Scientific Initiation in the field of knowledge Exact and Earth Sciences, sub-area Engineering, 2019
+##### Conic-Semesp
+
 
