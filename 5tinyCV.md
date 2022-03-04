@@ -3,8 +3,8 @@ layout: page
 title: Tiny CV
 ---
 <br/>
-<br/>
-# Education
+
+## Education
 
 ### Federal University of Sao Carlos, 2022
 ##### M.Eng. in Electrical Engineering
@@ -21,7 +21,7 @@ title: Tiny CV
 ##### Business administration and management technician
 <br/>
 
-# Professional Experience
+## Professional Experience
 
 ### Coordination of Superior Level Staff Improvement - CAPES, 2021-present
 ##### M.Eng. Student and PESCD Tutor
@@ -36,7 +36,7 @@ title: Tiny CV
 ##### Researcher and Student Tutor
 <br/>
 
-# Honors & Awards
+## Honors & Awards
 
 #### Honorable Mention in 19º National Congress of Scientific Initiation in the field of knowledge Exact and Earth Sciences, sub-area Engineering, 2019
 ##### Conic-Semesp
