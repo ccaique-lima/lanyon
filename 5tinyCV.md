@@ -3,7 +3,7 @@ layout: page
 title: Tiny CV
 ---
 
-## Education
+## <b>Education</b>
 
 ### Federal University of Sao Carlos, 2022
 ##### M.Eng. in Electrical Engineering
