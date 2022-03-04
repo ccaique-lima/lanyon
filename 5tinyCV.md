@@ -22,4 +22,17 @@ title: Tiny CV
 
 ### Professional Experience
 
-#### Electrical Engineering Intern
+#### Coordination of Superior Level Staff Improvement - CAPES, 2021-present
+##### M.Eng. Student and PESCD Tutor
+
+#### Altran, 2020-2021
+##### Technical Documentation Analyst
+
+#### VLI Multimodal S.A., 2018-2019
+##### Electrical Engineering Intern
+
+#### Salesian University Center of Sao Paulo, 2017-2019
+##### Researcher and Student Tutor
+
+
+
