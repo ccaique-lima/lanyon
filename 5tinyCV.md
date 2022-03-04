@@ -21,7 +21,7 @@ title: Tiny CV
 ##### Business administration and management technician
 <br/>
 
-## Professional Experience
+## <b>Professional Experience</b>
 
 ### Coordination of Superior Level Staff Improvement - CAPES, 2021-present
 ##### M.Eng. Student and PESCD Tutor
@@ -36,7 +36,7 @@ title: Tiny CV
 ##### Researcher and Student Tutor
 <br/>
 
-## Honors & Awards
+## <b>Honors & Awards</b>
 
 #### Honorable Mention in 19º National Congress of Scientific Initiation in the field of knowledge Exact and Earth Sciences, sub-area Engineering, 2019
 ##### Conic-Semesp
