@@ -6,11 +6,11 @@ title: Tiny CV
 
 ## <b>Education</b>
 
-### Federal University of Sao Carlos, 2022
+### Federal University of Sao Carlos – UFSCar, 2022
 ##### M.Eng. in Electrical Engineering
 ##### GPA 4.0
 
-### Salesian University Center of Sao Paulo, 2019
+### Salesian University Center of Sao Paulo – UNISAL, 2019
 ##### BEng in Electrical Engineering, Electronics
 ##### GPA 3.1
 
