@@ -3,7 +3,7 @@ layout: page
 title: Tiny CV
 ---
 
-## <b>Education</b>
+# Education
 
 ### Federal University of Sao Carlos, 2022
 ##### M.Eng. in Electrical Engineering
@@ -13,33 +13,27 @@ title: Tiny CV
 ##### BEng in Electrical Engineering, Electronics
 ##### GPA 3.1
 
-
-#### <b>National Service for Industrial Training</b>, 2014
+### National Service for Industrial Training, 2014
 ##### Electromechanical technician
-<br/>
 
-#### <b>Dr. Leandro Franceschini Municipal School</b>, 2012
+### Dr. Leandro Franceschini Municipal School, 2012
 ##### Business administration and management technician
-<br/>
 
 
-## Professional Experience
 
-#### <b>Coordination of Superior Level Staff Improvement - CAPES</b>, 2021-present
+## <b>Professional Experience</b>
+
+### Coordination of Superior Level Staff Improvement - CAPES, 2021-present
 ##### M.Eng. Student and PESCD Tutor
-<br/>
 
-#### <b>Altran</b>, 2020-2021
+### Altran, 2020-2021
 ##### Technical Documentation Analyst
-<br/>
 
-#### <b>VLI Multimodal S.A.</b>, 2018-2019
+### VLI Multimodal S.A., 2018-2019
 ##### Electrical Engineering Intern
-<br/>
 
-#### <b>Salesian University Center of Sao Paulo - UNISAL</b>, 2017-2019
+### Salesian University Center of Sao Paulo - UNISAL, 2017-2019
 ##### Researcher and Student Tutor
-<br/>
 
 
 ## Honors & Awards
