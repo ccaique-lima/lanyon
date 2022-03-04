@@ -4,6 +4,7 @@ title: Welcome!
 ---
 
 Here, you can find more information about me.
+#### Use the sidebar to find out more!
 
 <img src="https://raw.githubusercontent.com/ccaique-lima/webpage/gh-pages/assets/profile_pic.jpg" width="200px" height="auto">
 
@@ -22,6 +23,3 @@ I’m a brazillian electronics engineer taking a master’s degree in Electrical
 
 Learning new things since 1994. 😃
 
-
-
-#### Use the sidebar to find out more!
