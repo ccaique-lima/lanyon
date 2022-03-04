@@ -3,6 +3,11 @@ layout: page
 title: Contact Me
 ---
 
+### Do you have a question? (Maybe) I have a answer.
+
+#### For questions, compliments, suggestions and complaints, send me a message using the form below. I will try to answer as soon as possible!
+
+
 <form id="fs-frm" name="simple-contact-form" accept-charset="utf-8" action="https://formspree.io/f/xleznwww" method="post">
   <fieldset id="fs-frm-inputs">
     <label for="full-name">Name</label>  <br>
