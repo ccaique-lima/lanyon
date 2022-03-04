@@ -38,7 +38,7 @@ title: Tiny CV
 
 ## Honors & Awards
 
-#### Honorable Mention in 19º National Congress of Scientific Initiation in the field of knowledge Exact and Earth Sciences, sub-area Engineering, 2019
-##### <b>Conic-Semesp</b>
+### Honorable Mention in 19º National Congress of Scientific Initiation in the field of knowledge Exact and Earth Sciences, sub-area Engineering, 2019
+##### Conic-Semesp
 
 
