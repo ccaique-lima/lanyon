@@ -2,7 +2,8 @@
 layout: page
 title: Tiny CV
 ---
-
+<br/>
+<br/>
 # Education
 
 ### Federal University of Sao Carlos, 2022
@@ -18,7 +19,7 @@ title: Tiny CV
 
 ### Dr. Leandro Franceschini Municipal School, 2012
 ##### Business administration and management technician
-
+<br/>
 
 # Professional Experience
 
@@ -33,9 +34,9 @@ title: Tiny CV
 
 ### Salesian University Center of Sao Paulo - UNISAL, 2017-2019
 ##### Researcher and Student Tutor
-
+<br/>
 
 # Honors & Awards
 
-### Honorable Mention in 19º National Congress of Scientific Initiation in the field of knowledge Exact and Earth Sciences, sub-area Engineering, 2019
+#### Honorable Mention in 19º National Congress of Scientific Initiation in the field of knowledge Exact and Earth Sciences, sub-area Engineering, 2019
 ##### Conic-Semesp
