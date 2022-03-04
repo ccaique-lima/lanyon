@@ -3,8 +3,8 @@ layout: page
 title: Welcome!
 ---
 
-Here, you can find more information about me.
 #### Use the sidebar to find out more!
+Here, you can find more information about me.
 
 <img src="https://raw.githubusercontent.com/ccaique-lima/webpage/gh-pages/assets/profile_pic.jpg" width="200px" height="auto">
 
