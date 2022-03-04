@@ -5,15 +5,14 @@ title: Tiny CV
 
 ## Education
 
-#### <b>Federal University of Sao Carlos</b>, 2022
+### <b>Federal University of Sao Carlos</b>, 2022
 ##### M.Eng. in Electrical Engineering
 ##### GPA 4.0
-<br/>
 
-#### <b>Salesian University Center of Sao Paulo</b>, 2019
+### <b>Salesian University Center of Sao Paulo</b>, 2019
 ##### BEng in Electrical Engineering, Electronics
 ##### GPA 3.1
-<br/>
+
 
 #### <b>National Service for Industrial Training</b>, 2014
 ##### Electromechanical technician
