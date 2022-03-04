@@ -14,7 +14,7 @@ title: Tiny CV
 ##### BEng in Electrical Engineering, Electronics
 ##### GPA 3.1
 
-### National Service for Industrial Training, 2014
+### National Service for Industrial Training – SENAI, 2014
 ##### Electromechanical technician
 
 ### Dr. Leandro Franceschini Municipal School, 2012
@@ -23,7 +23,7 @@ title: Tiny CV
 
 ## <b>Professional Experience</b>
 
-### Coordination of Superior Level Staff Improvement - CAPES, 2021-present
+### Coordination of Superior Level Staff Improvement – CAPES, 2021-present
 ##### M.Eng. Student and PESCD Tutor
 
 ### Altran, 2020-2021
@@ -32,7 +32,7 @@ title: Tiny CV
 ### VLI Multimodal S.A., 2018-2019
 ##### Electrical Engineering Intern
 
-### Salesian University Center of Sao Paulo - UNISAL, 2017-2019
+### Salesian University Center of Sao Paulo – UNISAL, 2017-2019
 ##### Researcher and Student Tutor
 <br/>
 
