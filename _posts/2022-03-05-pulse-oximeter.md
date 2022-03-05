@@ -1,10 +1,6 @@
 ---
 layout: post
 title: Pulse oximeters: wizardry or science?
-categories: []
-tags: []
-description:
-<!--comments: true -->
 ---
 
 We are surrounded by everyday objects that we have no idea how they work. One of them is pulse oximeters, used to monitor oxygen saturation and heart rate. herein, we will see its working principle and discover that it isn't witchcraft but science & technology.
@@ -17,4 +13,5 @@ Through the PPG technique, optical properties of body tissue and blood can be ch
 
 The DC and AC components of the generated PPG signals are different for each LED. This is due to the distinct absorption characteristics of hemoglobin (Hb), oxyhemoglobin (HbO<sub>2</sub>) and other body tissue components for different wavelengths. From this difference, it is possible to calculate the oxygen saturation in the blood.
 
-<img src="https://raw.githubusercontent.com/ccaique-lima/webpage/gh-pages/assets/ppg_diagram.png" width="200px" height="auto">
+<img src="https://raw.githubusercontent.com/ccaique-lima/webpage/gh-pages/assets/ppg_diagram.png" width="800px" height="auto">
+
