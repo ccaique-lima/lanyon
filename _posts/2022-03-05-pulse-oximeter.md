@@ -36,7 +36,7 @@ Many people don't know, but there is a correct way to use pulse oximeters to avo
 
 According to the WHO, oxygen saturation (SpO<sub>2</sub>) in healthy people of any age should be 95% or higher. If a person's SpO<sub>2</sub> is 94% or less, they should be evaluated quickly to identify and treat the cause. Levels below 90% are considered a clinical emergency and should be treated urgently.
 
-The heart rate (HR) is the number of times the heart beats per minute (bpm). The normal pulse for healthy adults ranges from 60 to 100 beats per minute. But athletes, who do a lot of cardiovascular conditioning, may have heart rates near 40 bpm. 😲
+The heart rate (HR) is the number of times the heart beats per minute (bpm). The normal pulse for healthy adults ranges from 60 to 100 bpm. But athletes, who do a lot of cardiovascular conditioning, may have heart rates near 40 bpm. 😲
 
 
 
