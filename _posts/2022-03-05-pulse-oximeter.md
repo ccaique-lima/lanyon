@@ -6,7 +6,7 @@ tags: []
 description:
 ---
 
-We are surrounded by everyday objects that we have no idea how they work. One of them is pulse oximeter, used to monitor oxygen saturation and heart rate. herein, we will see its working principle and discover that it isn't witchcraft but science & technology.
+We are surrounded by everyday objects that we have no idea how they work. One of them is pulse oximeter, used to monitor oxygen saturation and heart rate. Herein, we'll see its working principle and discover that it isn't witchcraft but science & technology.
 
 ### How it uses light to measure oxygen? 🤔
 
