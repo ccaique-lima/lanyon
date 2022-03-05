@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Updated ruby on OS X 12 using HomeBrew
+title: Welcome!
 categories: []
 tags: []
 description:
