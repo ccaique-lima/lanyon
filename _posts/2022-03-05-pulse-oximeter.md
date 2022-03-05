@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Pulse oximeters: wizardry or science?
+title: Pulse oximeters wizardry or science
 categories: []
 tags: []
 description:
