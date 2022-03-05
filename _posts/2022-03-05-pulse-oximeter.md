@@ -8,7 +8,7 @@ description:
 
 We are surrounded by everyday objects that we have no idea how they work. One of them is pulse oximeters, used to monitor oxygen saturation and heart rate. herein, we will see its working principle and discover that it isn't witchcraft but science & technology.
 
-### How it uses light to measure oxygen? 🤔
+### How it uses light to measure oxygen?
 
 Pulse oximeters use simple optical technique but not so simple to write: _Photoplethysmography_ (PPG). This phenomenon was described in the 1930s by Alrick Hertzman. He chose the term _plethysmos_, derived from the Greek word _fullness_, based on his belief that his first observations were related to changes in blood volume. His theories were derived from the Beer-Lambert law, whose main premises were that the absorption of light is directly proportional to the path length, the concentration of substances and the absorption of light by each of these substances.
 
