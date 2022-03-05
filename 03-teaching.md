@@ -10,7 +10,7 @@ title: Teaching
 
 ### Physics II
 ##### 2nd SEM, 2019
-#### The Laws of Motion, Vectors, Work and Kinetic Energy
+#### Topics: The Laws of Motion, Vectors, Work and Kinetic Energy
 #### Supervisor: Pedro Roberto Grosso
 
 ### Linear Systems
