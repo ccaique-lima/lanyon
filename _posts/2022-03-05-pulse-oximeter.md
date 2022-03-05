@@ -28,3 +28,10 @@ Many people don't know, but there is a correct way to use pulse oximeters to avo
 
 <img src="https://raw.githubusercontent.com/ccaique-lima/webpage/gh-pages/assets/michelangelo_oximeter.png" width="500px" height="auto">
 
+<br>
+
+<img src="https://raw.githubusercontent.com/ccaique-lima/webpage/gh-pages/assets/spo2_level.png" width="500px" height="auto">
+
+
+
+
