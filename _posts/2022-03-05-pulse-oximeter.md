@@ -8,7 +8,7 @@ description:
 
 We are surrounded by everyday objects that we have no idea how they work. One of them is pulse oximeter, used to monitor oxygen saturation and heart rate. Herein, we'll see its working principle and discover that it isn't witchcraft but science & technology.
 
-<img src="https://raw.githubusercontent.com/ccaique-lima/webpage/gh-pages/assets/gollum_oximeter.png" width="300px" height="auto">
+<img src="https://raw.githubusercontent.com/ccaique-lima/webpage/gh-pages/assets/gollum_oximeter.png" width="200px" height="auto">
 
 ### How it uses light to measure oxygen? 🤔
 
@@ -18,7 +18,7 @@ Through the PPG technique, optical properties of body tissue and blood can be ch
 
 The DC and AC components of the generated PPG signals are different for each LED. This is due to the distinct absorption characteristics of hemoglobin (Hb), oxyhemoglobin (HbO<sub>2</sub>) and other body tissue components for different wavelengths. From this difference, it is possible to calculate the oxygen saturation in the blood.
 
-<img src="https://raw.githubusercontent.com/ccaique-lima/webpage/gh-pages/assets/ppg_diagram.png" width="550px" height="auto">
+<img src="https://raw.githubusercontent.com/ccaique-lima/webpage/gh-pages/assets/ppg_diagram.png" width="500px" height="auto">
 
 ### Is there a correct way to use it? Yea!
 
