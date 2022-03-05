@@ -30,7 +30,11 @@ Many people don't know, but there is a correct way to use pulse oximeters to avo
 
 <br>
 
+### Understanding the values
+
 <img src="https://raw.githubusercontent.com/ccaique-lima/webpage/gh-pages/assets/spo2_level.png" width="500px" height="auto">
+
+According to the WHO, oxygen saturation (SpO<sub>2</sub>) in healthy people of any age should be 95% or higher. If a person's SpO<sub>2</sub> is 94% or less, they should be evaluated quickly to identify and treat the cause. Levels below 90% are considered a clinical emergency and should be treated urgently.
 
 
 
