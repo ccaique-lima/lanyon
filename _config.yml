@@ -6,6 +6,7 @@ url:                 https://ccaique-lima.github.io
 baseurl:             '/webpage'
 paginate:            5
 permalink:           pretty
+paginate_path:    '/blog/page:num/'
 
 
 
