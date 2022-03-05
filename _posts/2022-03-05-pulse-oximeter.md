@@ -8,7 +8,7 @@ description:
 
 We are surrounded by everyday objects that we have no idea how they work. One of them is pulse oximeter, used to monitor oxygen saturation and heart rate. Herein, we'll see its working principle and discover that it isn't witchcraft but science & technology.
 
-<img src="https://github.com/ccaique-lima/webpage/blob/fe6877eb9d599beaecdad8878ecc77e4cf1153cd/assets/gollum_oximeter.png" width="500px" height="auto">
+<img src="https://github.com/ccaique-lima/webpage/blob/fe6877eb9d599beaecdad8878ecc77e4cf1153cd/assets/gollum_oximeter.png" width="300px" height="auto">
 
 ### How it uses light to measure oxygen? 🤔
 
