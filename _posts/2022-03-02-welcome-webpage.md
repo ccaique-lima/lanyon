@@ -1,6 +1,9 @@
 ---
 layout: post
-title: Welcome!
+title: Updated ruby on OS X 12 using HomeBrew
+categories: []
+tags: []
+description:
 ---
 
 Here, you can find more information about me.
