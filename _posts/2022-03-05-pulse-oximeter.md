@@ -22,7 +22,7 @@ The DC and AC components of the generated PPG signals are different for each LED
 
 <br>
 
-### Is there a correct way to use it? Yea!
+### Is there a correct way to use it? Yea! 👍🏽
 
 Many people don't know, but there is a correct way to use pulse oximeters to avoid measurement errors. The PPG signal is susceptible to external interference, mainly due to hand motion. So whenever you use a pulse oximeter, keep your hand at rest and avoid moving it.
 
