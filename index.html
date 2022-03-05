@@ -3,35 +3,19 @@ layout: default
 title: Home
 ---
 
-<div class="posts">
-  {% for post in paginator.posts %}
-  <div class="post">
-    <h1 class="post-title">
-      <a href="{{ post.url | absolute_url }}">
-        {{ post.title }}
-      </a>
-    </h1>
+<img src="https://raw.githubusercontent.com/ccaique-lima/webpage/gh-pages/assets/profile_pic.jpg" width="200px" height="auto">
 
-    <span class="post-date">{{ post.date | date_to_string }}</span>
+<a href="https://www.linkedin.com/in/caique-lima1/">
+  <img src="https://raw.githubusercontent.com/ccaique-lima/webpage/gh-pages/assets/icon_linkedin.png" width="40px" height="auto" align="left" hspace="5">
+</a>
+<a href="http://lattes.cnpq.br/0894764660082882">
+  <img src="https://raw.githubusercontent.com/ccaique-lima/webpage/gh-pages/assets/icon_lattes.png" width="40px" height="auto" align="left" hspace="5">
+</a>
+<br/>
+<br/>
 
-    {{ post.content }}
-  </div>
-  {% endfor %}
-</div>
+### Bio
 
-<div class="pagination">
-  {% if paginator.next_page %}
-    <a class="pagination-item older" href="{{ paginator.next_page_path | absolute_url }}">Older</a>
-  {% else %}
-    <span class="pagination-item older">Older</span>
-  {% endif %}
-  {% if paginator.previous_page %}
-    {% if paginator.page == 2 %}
-      <a class="pagination-item newer" href="{{ '/' | absolute_url }}">Newer</a>
-    {% else %}
-      <a class="pagination-item newer" href="{{ paginator.previous_page_path | absolute_url }}">Newer</a>
-    {% endif %}
-  {% else %}
-    <span class="pagination-item newer">Newer</span>
-  {% endif %}
-</div>
+I’m a brazillian electronics engineer taking a master’s degree in Electrical Engineering at Federal University of São Carlos. My line of research is Digital Signal Processing. My research interests include Internet of Things, Health 4.0, machine learning, wearables and pulse oximeters.
+
+Learning new things since 1994. 😃
