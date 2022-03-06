@@ -46,9 +46,9 @@ The heart rate (HR) is the number of times the heart beats per minute (bpm). The
 
 ALIAN, A. A.; SHELLEY, K. H. Photoplethysmography. _Best Practice & Research Clinical Anaesthesiology_, v. 28, n. 4, p. 395–406, 4 2014.
 
-Chacon, P.J., Pu, L., da Costa, T.H., Shin, Y.H., Ghomian,T., Shamkhalichenar, H., Wu, H.C., Irving, B.A., andChoi, J.W. (2019). A wearable pulse oximeter with wireless  communication and motion artifact tailoring for continuous use. _IEEE Transactions on Biomedical Engineering_, 66(6), 1505–1513.
+Chacon, P.J., Pu, L., da Costa, T.H., Shin, Y.H., Ghomian,T., Shamkhalichenar, H., Wu, H.C., Irving, B.A., andChoi, J.W. A wearable pulse oximeter with wireless  communication and motion artifact tailoring for continuous use. _IEEE Transactions on Biomedical Engineering_, 66(6), 1505–1513, 2019.
 
-Johns Hopkins Medicine. [Vital Signs (Body Temperature, Pulse Rate, Respiration Rate, Blood Pressure)](https://www.hopkinsmedicine.org/health/conditions-and-diseases/vital-signs-body-temperature-pulse-rate-respiration-rate-blood-pressure)
+Johns Hopkins Medicine. [Vital Signs (Body Temperature, Pulse Rate, Respiration Rate, Blood Pressure)](https://www.hopkinsmedicine.org/health/conditions-and-diseases/vital-signs-body-temperature-pulse-rate-respiration-rate-blood-pressure).
 
 World Health Organization. [Pulse oximetry training manual](https://www.who.int/patientsafety/safesurgery/pulse_oximetry/who_ps_pulse_oxymetry_training_manual_en.pdf), 2011.
 
