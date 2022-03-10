@@ -19,7 +19,7 @@ title: Contact Me
   <body>    
     <form action="https://formspree.io/f/xleznwww" method="POST">      
       <label for="full-name">Name</label>  <br>
-      <input type="text" name="name" id="full-name" placeholder="First and last name." required=""> <br>
+      <input type="text" name="name" id="full-name" placeholder="First and last name, please." required=""> <br>
       <label for="email-address">E-mail</label> <br>
       <input type="email" name="_replyto" id="email-address" placeholder="youremail@domain.com" required=""> <br>
       <label for="message">Message</label> <br>
