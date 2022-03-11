@@ -23,7 +23,7 @@ title: Tiny CV
 
 ## <b>Professional Experience</b>
 
-### Coordination of Superior Level Staff Improvement – CAPES, 2021-present
+### Coordination for the Improvement of Higher Education Personnel – CAPES, 2021-present
 ##### M.Eng. Student and PESCD Tutor
 
 ### Altran, 2020-2021
