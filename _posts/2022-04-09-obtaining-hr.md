@@ -26,6 +26,8 @@ The number of pulse peaks that occur in a 60-second period determines the HR in 
 	H(s) = ∫<sub>0</sub><sup>∞</sup> e<sup>-st</sup> h(t) dt
 </math>
 
+y=\frac{\sum\limits _{i} w_{i} y_{i}}{\sum\limits _{i} w_{i}} \ \ ,i=1,2...k
+
 where Tp<sub>i</sub> is the time at which the pulse peak occur of the i-th sample and n is the number of pulse peaks counted in a given window. In this exemple, HR measurements were estimated in a 6-second window, i.e., at each 6-second section a new measurement was computed from the samples corresponding to that section.
 
 
