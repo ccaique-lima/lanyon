@@ -10,7 +10,7 @@ Have you ever wondered how your smartwatch measures your pulse rate? With some b
 
 In this post, we will learn how to get heart rate (HR) using photoplethysmographic (PPG) signal. Additional information on how PPG signals work can be found in my other post [Pulse oximeters: wizardry or science?](https://ccaique-lima.github.io/webpage/2022/03/05/pulse-oximeter/)
 
-<img src="https://raw.githubusercontent.com/ccaique-lima/webpage/gh-pages/assets/wearing_smartwatch.jpg" width="200px" height="auto">
+<img src="https://raw.githubusercontent.com/ccaique-lima/webpage/gh-pages/assets/wearing_smartwatch.jpg" width="300px" height="auto">
 
 There are different ways to get pulse rate. We can use derivatives or the [Fourier transform](https://en.wikipedia.org/wiki/Fourier_transform) of a PPG signal to estimate how many times the heart beats per minute. Herein, I will describe two methods for this: HR _PPG differentials_ and _HR spectral analysis_.
 
