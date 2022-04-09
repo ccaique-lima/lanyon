@@ -12,7 +12,7 @@ In this post, we will learn how to get heart rate (HR) using photoplethysmograph
 
 <img src="https://raw.githubusercontent.com/ccaique-lima/webpage/gh-pages/assets/wearing_smartwatch.jpg" width="200px" height="auto">
 
-There are different ways to get pulse rate. We can use derivatives or the Fourier transform of a PPG signal to estimate how many times the heart beats per minute. Herein, I will describe two methods for this: HR _PPG differentials_ and _HR spectral analysis_.
+There are different ways to get pulse rate. We can use derivatives or the [Fourier transform](https://en.wikipedia.org/wiki/Fourier_transform) of a PPG signal to estimate how many times the heart beats per minute. Herein, I will describe two methods for this: HR _PPG differentials_ and _HR spectral analysis_.
 
 <br>
 
@@ -32,7 +32,7 @@ where Tp<sub>i</sub> is the time at which the pulse peak occur of the i-th sampl
 
 ### HR spectral analysis method
 
-We can easily obtain the HR using the [Fourier transform](https://en.wikipedia.org/wiki/Fourier_transform). For this, we calculate the DFT of the PPG signal as shown in the figure below. Normally, the spectrum of the PPG signal shows a high-amplitude peak located at the cardiac frequency. The x-marker on the graph is used to obtain cardiac frequency and then HR.
+We can easily obtain the HR using the Fourier transform. For this, we calculate the DFT of the PPG signal as shown in the figure below. Normally, the spectrum of the PPG signal shows a high-amplitude peak located at the cardiac frequency. The x-marker on the graph is used to obtain cardiac frequency and then HR.
 
 <img src="https://raw.githubusercontent.com/ccaique-lima/webpage/gh-pages/assets/ppg_hr_spec.jpg" width="500px" height="auto">
 
