@@ -8,21 +8,25 @@ description:
 
 Have you ever wondered how your smartwatch measures your pulse rate? With some basic knowledge of electronics and physiology we can understand how this is done.
 
-In this post, we will learn how to get heart rate (HR) using photoplethysmographic (PPG) signal. Additional information on how PPG signals work can be found in my other post [Pulse oximeters: wizardry or science?](https://ccaique-lima.github.io/webpage/2022/03/05/pulse-oximeter/).
+In this post, we will learn how to get heart rate (HR) using photoplethysmographic (PPG) signal. Additional information on how PPG signals work can be found in my other post [Pulse oximeters: wizardry or science?](https://ccaique-lima.github.io/webpage/2022/03/05/pulse-oximeter/)
 
 <img src="https://raw.githubusercontent.com/ccaique-lima/webpage/gh-pages/assets/wearing_smartwatch.jpg" width="200px" height="auto">
 
+There are different ways to get pulse rate. We can use derivatives or the Fourier transform of a PPG signal to estimate how many times the heart beats per minute. Herein, I will describe two methods for this: HR _PPG differentials_ and _HR spectral analysis_.
+
 <br>
 
-### How it uses light to measure oxygen? 🤔
+### HR PPG differentials method
 
-Pulse oximeters use a simple optical technique but not so simple to write: _Photoplethysmography_ (PPG). This phenomenon was described in the 1930s by Alrick Hertzman. He chose the term _plethysmos_, derived from the Greek word _fullness_, based on his belief that his first observations were related to changes in blood volume. His theories were derived from the Beer-Lambert law, whose main premises were that the absorption of light is directly proportional to the path length, the concentration of substances and the absorption of light by each of these substances.
+In this method, our knowledge of Calculus can be applied, especially the use of derivatives. We will use the absolute derivative of PPG signal to identify pulse peaks and estimate HR, it determines the number of times the heart beats. These peaks are generated in the systolic phase, and the interval at which they occur determines the duration of a cardiac cycle. In the figure below, it is possible to observe that the x-markers in the absolute derivative of the PPG signal determine the beginning of the cardiac cycle.
 
-Through the PPG technique, optical properties of body tissue and blood can be characterized using a photodetector and red (660 nm) and infrared (940 nm) light sources. The intensity of the reflected light changes when the volume of the arterial vessel changes during the systolic phase, which is the ejection phase of blood during the cardiac cycle. This variation in light intensity is converted into an electrical signal by the oximeter. Pulsatile arterial blood absorbs and modulates the light emitted by the LEDs that passes through body tissue and forms the PPG signal. The AC component of this signal, represented by the light absorbed by pulsatile arterial blood, is the only variable term. While the DC component, represented by the light absorbed by non-pulsatile arterial blood, venous blood and tissues such as skin, nerves and bones, remains static.
+The number of pulse peaks that occur in a 60-second period determines the HR in bpm. In the example illustrated above, the HR can be obtained as follows:
 
-The DC and AC components of the generated PPG signals are different for each LED. This is due to the distinct absorption characteristics of hemoglobin (Hb), oxyhemoglobin (HbO<sub>2</sub>) and other body tissue components for different wavelengths. From this difference, it is possible to calculate the oxygen saturation in the blood.
+"$$x_n = \\frac{1}{N}\\sum_{k=0}^{N-1} X_k e^{i~2\\pi~k~n~/~N}$$"
 
-<img src="https://raw.githubusercontent.com/ccaique-lima/webpage/gh-pages/assets/ppg_diagram.png" width="500px" height="auto">
+where Tp<sub>i</sub> is the time at which the pulse peak occur of the i-th sample and n is the number of pulse peaks counted in a given window. In this exemple, HR measurements were estimated in a 6-second window, i.e., at each 6-second section a new measurement was computed from the samples corresponding to that section.
+
+
 
 <br>
 
