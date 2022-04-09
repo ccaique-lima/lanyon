@@ -22,7 +22,9 @@ In this method, our knowledge of Calculus can be applied, especially the use of 
 
 The number of pulse peaks that occur in a 60-second period determines the HR in bpm. In the example illustrated above, the HR can be obtained as follows:
 
-"$$x_n = \\frac{1}{N}\\sum_{k=0}^{N-1} X_k e^{i~2\\pi~k~n~/~N}$$"
+<math>
+	H(s) = ∫<sub>0</sub><sup>∞</sup> e<sup>-st</sup> h(t) dt
+</math>
 
 where Tp<sub>i</sub> is the time at which the pulse peak occur of the i-th sample and n is the number of pulse peaks counted in a given window. In this exemple, HR measurements were estimated in a 6-second window, i.e., at each 6-second section a new measurement was computed from the samples corresponding to that section.
 
