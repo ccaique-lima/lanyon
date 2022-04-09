@@ -40,7 +40,7 @@ We can easily obtain the HR using the [Fourier transform](https://en.wikipedia.o
 
 <br>
 
-### References
+<!-- ### References
 
 ALIAN, A. A.; SHELLEY, K. H. Photoplethysmography. _Best Practice & Research Clinical Anaesthesiology_, v. 28, n. 4, p. 395–406, 4 2014.
 
@@ -48,7 +48,7 @@ Chacon, P.J., Pu, L., da Costa, T.H., Shin, Y.H., Ghomian,T., Shamkhalichenar, H
 
 Johns Hopkins Medicine. [Vital Signs (Body Temperature, Pulse Rate, Respiration Rate, Blood Pressure)](https://www.hopkinsmedicine.org/health/conditions-and-diseases/vital-signs-body-temperature-pulse-rate-respiration-rate-blood-pressure).
 
-World Health Organization. [Pulse oximetry training manual](https://www.who.int/patientsafety/safesurgery/pulse_oximetry/who_ps_pulse_oxymetry_training_manual_en.pdf), 2011.
+World Health Organization. [Pulse oximetry training manual](https://www.who.int/patientsafety/safesurgery/pulse_oximetry/who_ps_pulse_oxymetry_training_manual_en.pdf), 2011. -->
 
 
 
