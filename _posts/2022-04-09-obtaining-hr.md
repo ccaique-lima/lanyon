@@ -8,7 +8,7 @@ description:
 
 Have you ever wondered how your smartwatch measures your pulse rate? With some basic knowledge of electronics and physiology we can understand how this is done.
 
-In this post, we will learn how to get heart rate (HR) using photoplethysmographic (PPG) signal. Additional information on how PPG signals work can be found in my other post "Pulse oximeters: wizardry or science?"
+In this post, we will learn how to get heart rate (HR) using photoplethysmographic (PPG) signal. Additional information on how PPG signals work can be found in my other post [Pulse oximeters: wizardry or science?](https://ccaique-lima.github.io/webpage/2022/03/05/pulse-oximeter/).
 
 <img src="https://raw.githubusercontent.com/ccaique-lima/webpage/gh-pages/assets/wearing_smartwatch.jpg" width="200px" height="auto">
 
