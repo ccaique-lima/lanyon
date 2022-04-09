@@ -20,7 +20,7 @@ There are different ways to get pulse rate. We can use derivatives or the Fourie
 
 In this method, our knowledge of Calculus can be applied, especially the use of derivatives. We will use the absolute derivative of PPG signal to identify pulse peaks and estimate HR, it determines the number of times the heart beats. These peaks are generated in the systolic phase, and the interval at which they occur determines the duration of a cardiac cycle. In the figure below, it is possible to observe that the x-markers in the absolute derivative of the PPG signal determine the beginning of the cardiac cycle.
 
-<assets/poster_bitsal_2019.pdf width="200px" height="auto">
+(assets/poster_bitsal_2019.pdf)
 
 The number of pulse peaks that occur in a 60-second period determines the HR in bpm. In the example illustrated above, the HR can be obtained as follows:
 
