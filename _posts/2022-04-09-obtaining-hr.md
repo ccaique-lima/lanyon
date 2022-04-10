@@ -18,7 +18,7 @@ There are different ways to get pulse rate. We can use derivatives or the [Fouri
 
 ### HR PPG differentials method
 
-In this method, our knowledge of Calculus can be applied, especially the use of derivatives. We will use the absolute derivative of PPG signal to identify pulse peaks and estimate HR, it determines the number of times the heart beats. These peaks are generated in the systolic phase, and the interval at which they occur determines the duration of a cardiac cycle. In the figure below, it is possible to observe that the x-markers in the absolute derivative of the PPG signal determine the beginning of the cardiac cycle.
+In this method, our knowledge of Calculus can be applied, especially the use of derivatives. We will use the absolute derivative of PPG signal to identify pulse peaks and estimate HR, it determines the number of times the heart beats. These peaks are generated in the systolic phase and the interval at which they occur determines the duration of a cardiac cycle. In the figure below, it is possible to observe that the x-markers in the absolute derivative of the PPG signal determine the beginning of the cardiac cycle.
 
 <img src="https://raw.githubusercontent.com/ccaique-lima/webpage/gh-pages/assets/ppg_hr_diff.jpg" width="600px" height="auto">
 
