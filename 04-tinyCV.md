@@ -17,7 +17,7 @@ title: Tiny CV
 ### National Service for Industrial Training – SENAI, 2014
 ##### Electromechanical technician
 
-### Dr. Leandro Franceschini Municipal School, 2012
+### Municipal School Dr. Leandro Franceschini, 2012
 ##### Business administration and management technician
 <br/>
 
