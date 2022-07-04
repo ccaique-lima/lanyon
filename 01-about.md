@@ -17,5 +17,5 @@ Since 2017 he has been working with scientific research and teaching, funded by 
 
 In his master's research, he worked with PPG signals, motion artifact removal, machine learning, signal processing and wearables.
 
-He was born in Campinas-SP and since 1994 he has learned incredible things. His great passions are Brazil, books, microcontrollers, family & friends and [GFC](https://www.guaranifc.com.br/)! 😎
+He was born in Campinas-SP and since 1994 he has learned incredible things. His great passions are Brazil, books, microcontrollers, family&friends and [GFC](https://www.guaranifc.com.br/)! 😎
 
