@@ -6,6 +6,9 @@ title: Tiny CV
 
 ## <b>Education</b>
 
+### University of Campinas – Unicamp
+##### PhD Candidate in Electrical Engineering, Computer Engineering
+
 ### Federal University of Sao Carlos – UFSCar, 2022
 ##### M.Eng. in Electrical Engineering
 ##### GPA 4.0
@@ -23,7 +26,10 @@ title: Tiny CV
 
 ## <b>Professional Experience</b>
 
-### Coordination for the Improvement of Higher Education Personnel – CAPES, 2021-present
+### Unicamp Development Foundation – FUNCAMP, 2022-present
+##### PhD Candidate in Electrical Engineering and Explainable Artificial Intelligence (XAI) Researcher at Viva-Bem Project in partnership with Samsung.
+
+### Coordination for the Improvement of Higher Education Personnel – CAPES, 2021-2022
 ##### M.Eng. Student and PESCD Tutor
 
 ### Altran, 2020-2021
