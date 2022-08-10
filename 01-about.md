@@ -11,7 +11,7 @@ title: About Me
      
 <br>
 
-Caique is an electronics engineer who graduated from [UNISAL](https://unisal.br) in 2019. He received his M.Eng. (Electrical Engineering) degree from [UFSCar](https://www.ufscar.br) in 2022. Currently, he is a PhD Candidate in Electrical Engineering (Computer Engineering) at the [School of Electrical and Computer Engineering](https://www.fee.unicamp.br/) of the [University of Campinas](https://www.unicamp.br/unicamp/)
+Caique is an electronics engineer who graduated from [UNISAL](https://unisal.br) in 2019. He received his M.Eng. (Electrical Engineering) degree from [Federal University of São Carlos](https://www.ufscar.br) in 2022. Currently, he is a PhD Candidate in Electrical Engineering (Computer Engineering) at the [School of Electrical and Computer Engineering](https://www.fee.unicamp.br/) of the [University of Campinas](https://www.unicamp.br/unicamp/).
 
 Since 2017, he has been working with scientific research and teaching, funded by UNISAL (2017, 2018 and 2019), [CAPES](https://www.gov.br/capes/pt-br)(2021 and 2022) and [FUNCAMP](https://www.funcamp.unicamp.br/portal/) (since 2022).
 
