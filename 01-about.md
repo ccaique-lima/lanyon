@@ -11,11 +11,11 @@ title: About Me
      
 <br>
 
-Caique is an electronics engineer who graduated from [UNISAL](https://unisal.br) in 2019. Currently, he is a M.Eng. Student in Electrical Engineering at the Department of Electrical Engineering from [UFSCar](https://www.ufscar.br).
+Caique is an electronics engineer who graduated from [UNISAL](https://unisal.br) in 2019. He received his M.Eng. (Electrical Engineering) degree from [UFSCar](https://www.ufscar.br) in 2022. Currently, he is a PhD Candidate in Electrical Engineering (Computer Engineering) at the [School of Electrical and Computer Engineering](https://www.fee.unicamp.br/) of the [University of Campinas](https://www.unicamp.br/unicamp/)
 
-Since 2017 he has been working with scientific research and teaching, funded by UNISAL and [CAPES](https://www.gov.br/capes/pt-br).
+Since 2017, he has been working with scientific research and teaching, funded by UNISAL (2017, 2018 and 2019), [CAPES](https://www.gov.br/capes/pt-br)(2021 and 2022) and [FUNCAMP](https://www.funcamp.unicamp.br/portal/) (since 2022).
 
-In his master's research, he worked with PPG signals, motion artifact removal, machine learning, signal processing and wearables.
+In his master's research, he worked with PPG signals, motion artifact removal, machine learning, signal processing and pulse oximetry. His doctoral research focuses on explainable artificial intelligence (XAI) in wearables (specifically on the Samsung Galaxy Watch4).
 
 He was born in Campinas-SP and since 1994 he has learned incredible things. His great passions are Brazil, books, microcontrollers, family&friends and [GFC](https://www.guaranifc.com.br/)! 😎
 
