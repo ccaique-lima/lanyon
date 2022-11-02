@@ -20,4 +20,4 @@ CAMARGO, A. K. F.; <b>LIMA, C. S.</b>; ROSSO, R; SOUZA, V. M.; TURINA, G. Estaç
 
 ### Masters Dissertation
 
-LIMA, C. S. OxiTidy: motion artifact detection-reduction in photoplethysmographic signals using artificial neural networks. 2022. 123 p. [Dissertation](https://repositorio.ufscar.br/handle/ufscar/16780) (Master’s in Electrical Engineering) – Department of Electrical Engineering, Federal University of São Carlos, São Carlos, 2022.
+LIMA, C. S. OxiTidy: motion artifact detection-reduction in photoplethysmographic signals using artificial neural networks. 123 p. [Dissertation](https://repositorio.ufscar.br/handle/ufscar/16780) (Master’s in Electrical Engineering) – Department of Electrical Engineering, Federal University of São Carlos, São Carlos, 2022.
