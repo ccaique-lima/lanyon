@@ -32,7 +32,7 @@ title: Tiny CV
 ### Coordination for the Improvement of Higher Education Personnel – CAPES, 2021-2022
 ##### M.Eng. Student and PESCD Tutor
 
-### Altran, 2020-2021
+### Altran Technologies S.A., 2020-2021
 ##### Technical Documentation Analyst
 
 ### VLI Multimodal S.A., 2018-2019
