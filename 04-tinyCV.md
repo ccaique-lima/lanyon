@@ -10,7 +10,7 @@ title: Tiny CV
 ##### PhD Candidate in Electrical Engineering, Computer Engineering
 
 ### Federal University of Sao Carlos – UFSCar, 2022
-##### M.Eng. in Electrical Engineering
+##### M.Eng. in Electrical Engineering, Electrical and Electronic Systems
 ##### GPA 4.0
 
 ### Salesian University Center of Sao Paulo – UNISAL, 2019
