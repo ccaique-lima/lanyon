@@ -19,3 +19,7 @@ CAMARGO, A. K. F.; <b>LIMA, C. S.</b>; ROSSO, R; SOUZA, V. M.; TURINA, G. Estaç
 ### Masters Dissertation
 
 LIMA, C. S. OxiTidy: motion artifact detection-reduction in photoplethysmographic signals using artificial neural networks. 123 p. [Dissertation](https://repositorio.ufscar.br/handle/ufscar/16780) (Master’s in Electrical Engineering) – Department of Electrical Engineering, Federal University of São Carlos, São Carlos, 2022.
+
+### White Papers
+
+LIMA, C. S. Multi-Label Classification in Human Activity Recognition: A Comparison Between Logistic Regression and k-Nearest Neighbors. [IA048 — Machine Learning project](assets/ia048_machine_learning_project.pdf) – Department of Computer Engineering and Industrial Automation, School of Electrical and Computer Engineering, University of Campinas, Campinas, 2022.
