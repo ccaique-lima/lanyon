@@ -24,6 +24,6 @@ LIMA, C. S. OxiTidy: motion artifact detection-reduction in photoplethysmographi
 
 LIMA, C. S. Multi-Label Classification in Human Activity Recognition: A Comparison Between Logistic Regression and k-Nearest Neighbors. [IA048 — Machine Learning project](assets/ia048_machine_learning_project.pdf) – Department of Computer Engineering and Industrial Automation, School of Electrical and Computer Engineering, University of Campinas, Campinas, 2022.
 
-ITO, R. C.; <b>LIMA, C. S</b>. When Federated Learning Meets Neural Architecture Search: A Comparison. [MO809A — Federated Learning report](assets/ia048_machine_learning_project.pdf) – Department of Computer Engineering and Industrial Automation, School of Electrical and Computer Engineering, University of Campinas, Campinas, 2022.
+ITO, R. C.; <b>LIMA, C. S</b>. When Federated Learning Meets Neural Architecture Search: A Comparison. [MO809A — Federated Learning report](assets/MO809A_federated_learning_report.pdf) – Department of Computer Engineering and Industrial Automation, School of Electrical and Computer Engineering, University of Campinas, Campinas, 2022.
 
 LIMA, C. S. WiFiTester: A low-cost device for detecting interruptions in a Wireless Local Area Network (WLAN). [White paper WiFiTester](assets/white_paper_WiFiTester.pdf) – Department of Electrical Engineering, Federal University of São Carlos, São Carlos, 2021.
