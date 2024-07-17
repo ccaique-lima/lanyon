@@ -43,11 +43,19 @@ After that, 10 steps were taken, the following being described:
 
 Exploratory data analysis (EDA) is a crucial step in the data science process that involves visualizing and summarizing the dataset to gain valuable insights. During EDA, we examined various visualizations, including histograms and missing value distributions, to understand the data’s characteristics and identify potential patterns or trends. These visualizations validate the data’s integrity and allow us to make informed decisions for building predictive models and drawing meaningful conclusions about patient outcomes in cancer cases.
 
-<img src="https://raw.githubusercontent.com/" width="500px" height="auto">
+<div style="text-align: center;">
+  <img src="https://raw.githubusercontent.com/ccaique-lima/webpage/gh-pages/assets/missing_values_distr.png" alt="Description of Image">
+  <p><em>Missing values distribution: each column in this graph represents a variable and the absence of missing values (NaNs) results in continuous columns. The absence of missing data indicates effective data treatment.</em></p>
+</div>
 
 <div style="text-align: center;">
-  <img src="https://raw.githubusercontent.com/ccaique-lima/webpage/gh-pages/assets/missing_values_distr" alt="Description of Image">
-  <p><em>Missing values distribution: each column in this graph represents a variable and the absence of missing values (NaNs) results in continuous columns. The absence of missing data indicates effective data treatment</em></p>
+  <img src="https://raw.githubusercontent.com/ccaique-lima/webpage/gh-pages/assets/hosp_days_histo.png" alt="Description of Image">
+  <p><em>Hospitalization days histogram: this histogram presents the distribution of hospitalization days for patients with and without cancer. Patients with cancer show a higher concentration of hospitalization days, with the mode slightly shifted toward the right.</em></p>
+</div>
+
+<div style="text-align: center;">
+  <img src="https://raw.githubusercontent.com/ccaique-lima/webpage/gh-pages/assets/median_neutrop_hist.png" alt="Description of Image">
+  <p><em>Median neutrophil count histogram: this histogram depicts the distribution of median neutrophil count values for patients with and without cancer. Patients with cancer exhibit a peak between 60% and 80%, while patients without cancer show a more evenly distributed histogram.</em></p>
 </div>
 
 <br>
