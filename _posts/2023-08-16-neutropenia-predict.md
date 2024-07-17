@@ -6,6 +6,10 @@ tags: []
 description:
 ---
 
+<div id="disclaimer">
+        <p>This post was equally written by me and Gustavo Luz</p>
+</div>
+
 In this post, we aim to leverage the data collected from the Medical Information Mart for Intensive Care (MIMIC-IV) version 4, a repository managed by the MIT Laboratory for Computational Physiology, which houses medical data for research purposes. This dataset, presented in [1], consists of patient information from the Beth Israel Deaconess Medical Center (BIDMC). Before accessing the dataset, ethical guidelines were followed as guided by the [CITI Program course on Data or Specimens Only Research](https://physionet.org/about/citi-course/) and the data usage was approved by the course instructor André Santanchè at the post-graduate discipline of Data Science and Visualization in Health at [Unicamp](https://www.unicamp.br/unicamp/). Our objective is to develop classification models for predicting mortality in neutropenic patients without cancer and regression models for predicting hospitalization days for patients with or without cancer.
 
 <br>
