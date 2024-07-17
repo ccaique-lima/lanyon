@@ -48,10 +48,14 @@ Exploratory data analysis (EDA) is a crucial step in the data science process th
   <p><em>Missing values distribution: each column in this graph represents a variable and the absence of missing values (NaNs) results in continuous columns. The absence of missing data indicates effective data treatment.</em></p>
 </div>
 
+<br>
+
 <div style="text-align: center;">
   <img src="https://raw.githubusercontent.com/ccaique-lima/webpage/gh-pages/assets/hosp_days_histo.png" alt="Description of Image">
   <p><em>Hospitalization days histogram: this histogram presents the distribution of hospitalization days for patients with and without cancer. Patients with cancer show a higher concentration of hospitalization days, with the mode slightly shifted toward the right.</em></p>
 </div>
+
+<br>
 
 <div style="text-align: center;">
   <img src="https://raw.githubusercontent.com/ccaique-lima/webpage/gh-pages/assets/median_neutrop_hist.png" alt="Description of Image">
@@ -85,6 +89,8 @@ For better visualization than the traditional correlation matrix, a correlation 
   <img src="https://raw.githubusercontent.com/ccaique-lima/webpage/gh-pages/assets/corr_graph.png" alt="Description of Image">
   <p><em>Correlation graph.</em></p>
 </div>
+
+<br>
 
 Blue lines indicate a Pearson correlation between pairs greater than or equal to 0.2 (positive low correlation), while red lines represent correlations less than or equal to -0.2. The line thickness reflects the degree of correlation, with thicker lines indicating stronger positive or negative correlations. Arrows denote each specific variable in the graph. Specific correlation analyses for each model type are discussed in the corresponding sections.
 
@@ -127,6 +133,8 @@ The features selection criteria as well as the views described above were perfor
   <p><em>Results obtained with the regressor for days of hospitalization.</em></p>
 </div>
 
+<br>
+
 The architecture of the neural network used to build the regressors, which in this case was an MLP (multilayer perceptron), the number of neurons in each layer and their respective activation functions are shown in the figure below.
 
 <div style="text-align: center;">
@@ -154,6 +162,8 @@ Principal Component Analysis (PCA) with two components was performed for data vi
   <p><em>PCA with two components for training synthetic data generation.</em></p>
 </div>
 
+<br>
+
 The evaluation metrics used for classification were accuracy, balanced accuracy and F1-score. Each of these metrics serves the following purpose:
 
 Accuracy: Reflects the proportion of correctly classified instances among all instances in the dataset.
@@ -167,6 +177,8 @@ F1-score: Harmonic mean of precision and recall, offering a balanced assessment 
   <p><em>Confusion Matrix for balanced random forest model — patients without cancer.</em></p>
 </div>
 
+<br>
+
 In the confusion matrix, the diagonal elements represent correct predictions, while off-diagonal elements represent misclassifications.
 
 The balanced Random Forest model achieved an accuracy of 87.11%, indicating the percentage of correctly predicted outcomes out of all samples. The balanced accuracy, which takes into account both false positives and false negatives, reached 60.53%. This metric represents an overall balanced performance of the model, considering the class imbalance of the data. The model showed a better ability to distinguish between survival and death outcomes for patients without cancer compared to other tested models.
@@ -177,6 +189,8 @@ The best model was the balanced Neural Network, as shown in the table of results
   <img src="https://raw.githubusercontent.com/ccaique-lima/webpage/gh-pages/assets/res_classif.png" alt="Description of Image">
   <p><em>Results obtained with the classifiers for patients without cancer.</em></p>
 </div>
+
+<br>
 
 The Random Forest models exhibited poorer performance compared to the Neural Network and balancing had a positive impact only for the MLP model.
 
@@ -192,27 +206,27 @@ For regression, predicting hospitalization days, the linear regression model ach
 
 Future work could involve creating new input variables using complete data versions, as this study utilized minimal datasets. Studies like ⁸ could provide insights into incorporating additional attributes, such as hemogram results containing hemoglobin, platelets, leukocytes, lymphocytes, monocytes, basophils, eosinophils and other relevant parameters, observing their correlations to improve model performance. All that mentioned are improvements that can be made to increase the number of patients that actually died, as the model learned well from patients that didn’t die. One approach to look is that the prediction of dying can be costly and it’s best to be more conservative in complex health problems.
 
-> ⚠️ Ethics considerations: we underscore the ethical considerations in our classification and regression modeling approach for medical predictions. However, we recommend that future work delve deeper into analyzing potential bias and disparities within historical data, particularly related to gender, race and other protected characteristics. Furthermore, we suggest implementing a robust system for ongoing monitoring to assess the ethical and equitable performance of the models over time. Exploring model interpretation methods is advisable to provide clearer insights into decision-making, enhancing transparency and understanding. Additionally, protocols for disputes and appeals should be established, enabling individuals to question predictions perceived as unfair or inaccurate. These recommendations will strengthen the ethical integrity of future data science applications in the medical domain, while fostering more equitable and informed decisions for patients and healthcare professionals.
+> ⚠️ Ethics considerations: We underscore the ethical considerations in our classification and regression modeling approach for medical predictions. For future work, we recommend a deeper analysis of potential biases and disparities within historical data, particularly related to gender, race, and other protected characteristics. Additionally, implementing a robust system for ongoing monitoring is crucial to assess the ethical and equitable performance of these models over time. Exploring model interpretation methods is advisable to provide clearer insights into decision-making, thereby enhancing transparency and understanding. Furthermore, establishing protocols for disputes and appeals will enable individuals to question predictions perceived as unfair or inaccurate. These recommendations aim to strengthen the ethical integrity of future data science applications in the medical domain, fostering more equitable and informed decisions for patients and healthcare professionals.
 
 <br>
 
 ### References
 
-[1] JOHNSON, A.; BULGARELLI, L.; POLLARD, T.; HORNG, S.; CELI, L.A.; MARK, R. MIMIC-IV. PhysioNet, 2021. Available at: <https://physionet.org/content/mimiciv/1.0/>
+[1] Johnson, A., Bulgarelli, L., Pollard, T., Horng, S., Celi, L. A., & Mark, R. (2021). MIMIC-IV. PhysioNet. Available at: <https://physionet.org/content/mimiciv/1.0/>
 
-[2] CHO, B. J., KIM, K. M., BILEGSAIKHAN, S. E., & SUH, Y. J. (2020). Machine learning improves the prediction of febrile neutropenia in Korean inpatients undergoing chemotherapy for breast cancer. Scientific reports, 10(1), 14803.
+[2] Cho, B. J., Kim, K. M., Bilegsaikhan, S. E., & Suh, Y. J. (2020). Machine learning improves the prediction of febrile neutropenia in Korean inpatients undergoing chemotherapy for breast cancer. Scientific Reports, 10(1), 14803.
 
-[3] XIANG, L., WANG, H., FAN, S., ZHANG, W., LU, H., DONG, B., … & FU, L. (2021). Machine Learning for Early Warning of Septic Shock in Children With Hematological Malignancies Accompanied by Fever or Neutropenia: A Single Center Retrospective Study. Frontiers in Oncology, 11, 678743.
+[3] Xiang, L., Wang, H., Fan, S., Zhang, W., Lu, H., Dong, B., & Fu, L. (2021). Machine learning for early warning of septic shock in children with hematological malignancies accompanied by fever or neutropenia: A single center retrospective study. Frontiers in Oncology, 11, 678743.
 
-[4] VAILLANT, A. A. J.; ZITO, P.M. Neutropenia. In: StatPearls [Internet]. [S.l.]: StatPearls Publishing, 2021.
+[4] Vaillant, A. A. J., & Zito, P. M. (2021). Neutropenia. In StatPearls [Internet]. StatPearls Publishing.
 
-[5] HOSIRILUCK, N.; KLOMJIT, S.; RASSAMEEHIRAN, S.; SUTAMTEWAGUL, G.; TIJANI, L.; RADHI, S. Prognostic factors for mortality with febrile neutropenia in hospitalized patients. The Southwest Respiratory and Critical Care Chronicles, v. 3, no. 9, P. 3–13, 2015.
+[5] Hosiriluck, N., Klomjit, S., Rassameehirun, S., Sutamtewagul, G., Tijani, L., & Radhi, S. (2015). Prognostic factors for mortality with febrile neutropenia in hospitalized patients. The Southwest Respiratory and Critical Care Chronicles, 3(9), 3–13.
 
-[6] PEREZ-FIGUEROA, E.; ÁLVAREZ-CARRASCO, P.; ORTEGA, E.; MALDONADOBERNAL, C. Neutrophils: many ways to die. Frontiers in immunology, Frontiers Media SA, v. 12, p. 631821, 2021.
+[6] Perez-Figueroa, E., Álvarez-Carrasco, P., Ortega, E., & Maldonado-Bernal, C. (2021). Neutrophils: Many ways to die. Frontiers in Immunology, 12, 631821.
 
-[7] BAHAWERES, R.B.; SALSABILA, M.; ROZY, N.F.; HERMADI, I.; SUROSO, A.I.; ARKEMAN, Y. Combining pca and smote for software defect prediction with visual approach analytics. In: IEEE. 2022 10th International Conference on Cyber ​​and IT Service Management (CITSM). [S.l.], 2022. p. 1–7.
+[7] Bahaweres, R. B., Salsabila, M., Rozy, N. F., Hermadi, I., Suroso, A. I., & Arkeman, Y. (2022). Combining PCA and SMOTE for software defect prediction with visual approach analytics. In 2022 10th International Conference on Cyber and IT Service Management (CITSM) (pp. 1–7). IEEE.
 
-[8] FERREIRA, E. V. d. P.M.P.L. The clinical and laboratory characterization of patients with febrile neutropenia from the MIMIC-III database. 2020. <https://www.prp.unicamp.br/inscricao-congresso/resumos/2020P17753A13505O2527.pdf>. Online; Accessed on June 6, 2023.
+[8] Ferreira, P. L. & de Paula, E. V. (2020). The clinical and laboratory characterization of patients with febrile neutropenia from the MIMIC-III database. Available at: <https://www.prp.unicamp.br/inscricao-congresso/resumos/2020P17753A13505O2527.pdf>. Online; Accessed on June 6, 2023.
 
 
 
