@@ -45,6 +45,11 @@ Exploratory data analysis (EDA) is a crucial step in the data science process th
 
 <img src="https://raw.githubusercontent.com/" width="500px" height="auto">
 
+<div style="text-align: center;">
+  <img src="https://raw.githubusercontent.com/ccaique-lima/webpage/gh-pages/assets/missing_values_distr" alt="Description of Image">
+  <p><em>Missing values distribution: each column in this graph represents a variable and the absence of missing values (NaNs) results in continuous columns. The absence of missing data indicates effective data treatment</em></p>
+</div>
+
 <br>
 
 ### Modeling
