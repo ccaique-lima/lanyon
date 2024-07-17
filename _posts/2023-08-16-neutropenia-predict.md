@@ -64,7 +64,10 @@ Exploratory data analysis (EDA) is a crucial step in the data science process th
 
 To conduct the modeling process, we adopted the framework shown in the figure below:
 
-<img src="https://raw.githubusercontent.com/" width="500px" height="auto">
+<div style="text-align: center;">
+  <img src="https://raw.githubusercontent.com/ccaique-lima/webpage/gh-pages/assets/steps_modeling.png" alt="Description of Image">
+  <p><em>Steps taken in the modeling phase.</em></p>
+</div>
 
 <br>
 
@@ -78,7 +81,10 @@ Patients were divided into two subsets: those with cancer and those without canc
 
 For better visualization than the traditional correlation matrix, a correlation graph was constructed.
 
-<img src="https://raw.githubusercontent.com/" width="500px" height="auto">
+<div style="text-align: center;">
+  <img src="https://raw.githubusercontent.com/ccaique-lima/webpage/gh-pages/assets/corr_graph.png" alt="Description of Image">
+  <p><em>Correlation graph.</em></p>
+</div>
 
 Blue lines indicate a Pearson correlation between pairs greater than or equal to 0.2 (positive low correlation), while red lines represent correlations less than or equal to -0.2. The line thickness reflects the degree of correlation, with thicker lines indicating stronger positive or negative correlations. Arrows denote each specific variable in the graph. Specific correlation analyses for each model type are discussed in the corresponding sections.
 
@@ -116,7 +122,10 @@ MSE: Mean squared errors between the observed and predicted values by the model.
 
 The features selection criteria as well as the views described above were performed for each of the evaluated models: linear regression and artificial neural network. The results achieved in each of these models were aggregated in the table below.
 
-<img src="https://raw.githubusercontent.com/" width="500px" height="auto">
+<div style="text-align: center;">
+  <img src="https://raw.githubusercontent.com/ccaique-lima/webpage/gh-pages/assets/res_days_hosp.png" alt="Description of Image">
+  <p><em>Results obtained with the regressor for days of hospitalization.</em></p>
+</div>
 
 The architecture of the neural network used to build the regressors, which in this case was an MLP (multilayer perceptron), the number of neurons in each layer and their respective activation functions are shown in the figure below.
 
