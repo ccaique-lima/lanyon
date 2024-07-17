@@ -173,10 +173,11 @@ Balanced Accuracy: Represents the average accuracy achieved across different cla
 
 F1-score: Harmonic mean of precision and recall, offering a balanced assessment of model performance across different class distributions.
 
-<div style="text-align: center;">
+<figure style="text-align: center;">
   <img src="https://raw.githubusercontent.com/ccaique-lima/webpage/gh-pages/assets/confusion_matrix_bal_rf.png" width="350px" height="auto" alt="Description of Image">
-  <p><em>Confusion Matrix for balanced random forest model — patients without cancer.</em></p>
-</div>
+  <figcaption><em>Confusion Matrix for balanced random forest model — patients without cancer.</em></figcaption>
+</figure>
+
 
 <br>
 
