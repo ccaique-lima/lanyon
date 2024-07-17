@@ -129,7 +129,10 @@ The features selection criteria as well as the views described above were perfor
 
 The architecture of the neural network used to build the regressors, which in this case was an MLP (multilayer perceptron), the number of neurons in each layer and their respective activation functions are shown in the figure below.
 
-<img src="https://raw.githubusercontent.com/" width="500px" height="auto">
+<div style="text-align: center;">
+  <img src="https://raw.githubusercontent.com/ccaique-lima/webpage/gh-pages/assets/architect_nn.png" alt="Description of Image">
+  <p><em>Architecture of the neural network used in the regression.</em></p>
+</div>
 
 <br>
 
@@ -146,7 +149,10 @@ To address the class imbalance, the Synthetic Minority Oversampling Technique (S
 
 Principal Component Analysis (PCA) with two components was performed for data visualization before and after balancing, providing a clearer understanding of the data, as shown by [7].
 
-<img src="https://raw.githubusercontent.com/" width="500px" height="auto">
+<div style="text-align: center;">
+  <img src="https://raw.githubusercontent.com/ccaique-lima/webpage/gh-pages/assets/pca_training.png" alt="Description of Image">
+  <p><em>PCA with two components for training synthetic data generation.</em></p>
+</div>
 
 The evaluation metrics used for classification were accuracy, balanced accuracy and F1-score. Each of these metrics serves the following purpose:
 
@@ -156,7 +162,10 @@ Balanced Accuracy: Represents the average accuracy achieved across different cla
 
 F1-score: Harmonic mean of precision and recall, offering a balanced assessment of model performance across different class distributions.
 
-<img src="https://raw.githubusercontent.com/" width="500px" height="auto">
+<div style="text-align: center;">
+  <img src="https://raw.githubusercontent.com/ccaique-lima/webpage/gh-pages/assets/confusion_matrix_bal_rf.png" alt="Description of Image">
+  <p><em>Confusion Matrix for balanced random forest model — patients without cancer.</em></p>
+</div>
 
 In the confusion matrix, the diagonal elements represent correct predictions, while off-diagonal elements represent misclassifications.
 
@@ -164,7 +173,10 @@ The balanced Random Forest model achieved an accuracy of 87.11%, indicating the 
 
 The best model was the balanced Neural Network, as shown in the table of results for non-cancer patients.
 
-<img src="https://raw.githubusercontent.com/" width="500px" height="auto">
+<div style="text-align: center;">
+  <img src="https://raw.githubusercontent.com/ccaique-lima/webpage/gh-pages/assets/res_classif.png" alt="Description of Image">
+  <p><em>Results obtained with the classifiers for patients without cancer.</em></p>
+</div>
 
 The Random Forest models exhibited poorer performance compared to the Neural Network and balancing had a positive impact only for the MLP model.
 
@@ -180,7 +192,7 @@ For regression, predicting hospitalization days, the linear regression model ach
 
 Future work could involve creating new input variables using complete data versions, as this study utilized minimal datasets. Studies like ⁸ could provide insights into incorporating additional attributes, such as hemogram results containing hemoglobin, platelets, leukocytes, lymphocytes, monocytes, basophils, eosinophils and other relevant parameters, observing their correlations to improve model performance. All that mentioned are improvements that can be made to increase the number of patients that actually died, as the model learned well from patients that didn’t die. One approach to look is that the prediction of dying can be costly and it’s best to be more conservative in complex health problems.
 
-> Ethics Considerations: We underscore the ethical considerations in our classification and regression modeling approach for medical predictions. However, we recommend that future work delve deeper into analyzing potential bias and disparities within historical data, particularly related to gender, race and other protected characteristics. Furthermore, we suggest implementing a robust system for ongoing monitoring to assess the ethical and equitable performance of the models over time. Exploring model interpretation methods is advisable to provide clearer insights into decision-making, enhancing transparency and understanding. Additionally, protocols for disputes and appeals should be established, enabling individuals to question predictions perceived as unfair or inaccurate. These recommendations will strengthen the ethical integrity of future data science applications in the medical domain, while fostering more equitable and informed decisions for patients and healthcare professionals.
+> ⚠️ Ethics considerations: we underscore the ethical considerations in our classification and regression modeling approach for medical predictions. However, we recommend that future work delve deeper into analyzing potential bias and disparities within historical data, particularly related to gender, race and other protected characteristics. Furthermore, we suggest implementing a robust system for ongoing monitoring to assess the ethical and equitable performance of the models over time. Exploring model interpretation methods is advisable to provide clearer insights into decision-making, enhancing transparency and understanding. Additionally, protocols for disputes and appeals should be established, enabling individuals to question predictions perceived as unfair or inaccurate. These recommendations will strengthen the ethical integrity of future data science applications in the medical domain, while fostering more equitable and informed decisions for patients and healthcare professionals.
 
 <br>
 
