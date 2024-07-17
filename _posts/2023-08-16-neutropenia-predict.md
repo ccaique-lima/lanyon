@@ -138,7 +138,7 @@ The features selection criteria as well as the views described above were perfor
 The architecture of the neural network used to build the regressors, which in this case was an MLP (multilayer perceptron), the number of neurons in each layer and their respective activation functions are shown in the figure below.
 
 <div style="text-align: center;">
-  <img src="https://raw.githubusercontent.com/ccaique-lima/webpage/gh-pages/assets/architect_nn.png" width="350px" height="auto" alt="Description of Image">
+  <img src="https://raw.githubusercontent.com/ccaique-lima/webpage/gh-pages/assets/architect_nn.png" width="220px" height="auto" alt="Description of Image">
   <p><em>Architecture of the neural network used in the regression.</em></p>
 </div>
 
