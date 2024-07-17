@@ -162,7 +162,6 @@ Principal Component Analysis (PCA) with two components was performed for data vi
   <img src="https://raw.githubusercontent.com/ccaique-lima/webpage/gh-pages/assets/pca_training.png" alt="Description of Image">
   <figcaption><em>PCA with two components for training synthetic data generation.</em></figcaption>
 </figure>
-
 <br>
 
 The evaluation metrics used for classification were accuracy, balanced accuracy and F1-score. Each of these metrics serves the following purpose:
@@ -177,7 +176,6 @@ F1-score: Harmonic mean of precision and recall, offering a balanced assessment 
   <img src="https://raw.githubusercontent.com/ccaique-lima/webpage/gh-pages/assets/confusion_matrix_bal_rf.png" width="350px" height="auto" alt="Description of Image">
   <figcaption><em>Confusion Matrix for balanced random forest model — patients without cancer.</em></figcaption>
 </figure>
-
 <br>
 
 In the confusion matrix, the diagonal elements represent correct predictions, while off-diagonal elements represent misclassifications.
