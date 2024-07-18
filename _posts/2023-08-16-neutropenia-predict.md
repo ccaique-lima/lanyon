@@ -138,7 +138,7 @@ The features selection criteria as well as the views described above were perfor
 The architecture of the neural network used to build the regressors, which in this case was an MLP (multilayer perceptron), the number of neurons in each layer and their respective activation functions are shown in the figure below.
 
 <figure style="text-align: center;">
-  <img src="https://raw.githubusercontent.com/ccaique-lima/webpage/gh-pages/assets/architect_nn.png" width="200px" height="auto" alt="Description of Image">
+  <img src="https://raw.githubusercontent.com/ccaique-lima/webpage/gh-pages/assets/architect_nn.png" width="200px" height="auto" alt="Description of Image" style="margin: 0 auto;">
   <figcaption><em>Architecture of the neural network used in the regression.</em></figcaption>
 </figure>
 
@@ -171,16 +171,12 @@ Balanced Accuracy: Represents the average accuracy achieved across different cla
 
 F1-score: Harmonic mean of precision and recall, offering a balanced assessment of model performance across different class distributions.
 
-
-
-
 <figure style="text-align: center;">
   <img src="https://raw.githubusercontent.com/ccaique-lima/webpage/gh-pages/assets/confusion_matrix_bal_rf.png" width="350px" height="auto" alt="Description of Image" style="margin: 0 auto;">
   <figcaption><em>Confusion Matrix for balanced random forest model — patients without cancer.</em></figcaption>
 </figure>
+
 <br>
-
-
 
 In the confusion matrix, the diagonal elements represent correct predictions, while off-diagonal elements represent misclassifications.
 
