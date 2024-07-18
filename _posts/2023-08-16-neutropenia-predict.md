@@ -171,15 +171,11 @@ Balanced Accuracy: Represents the average accuracy achieved across different cla
 
 F1-score: Harmonic mean of precision and recall, offering a balanced assessment of model performance across different class distributions.
 
-figure {
-      display: flex;
-      flex-direction: column;
-      align-items: center;
-      text-align: center;
-    }
+
+
 
 <figure style="text-align: center;">
-  <img src="https://raw.githubusercontent.com/ccaique-lima/webpage/gh-pages/assets/confusion_matrix_bal_rf.png" width="350px" height="auto" alt="Description of Image">
+  <img src="https://raw.githubusercontent.com/ccaique-lima/webpage/gh-pages/assets/confusion_matrix_bal_rf.png" width="350px" height="auto" alt="Description of Image" style="margin: 0 auto;">
   <figcaption><em>Confusion Matrix for balanced random forest model — patients without cancer.</em></figcaption>
 </figure>
 <br>
@@ -211,7 +207,7 @@ In the classification task for predicting mortality in cancer patients, we encou
 
 For regression, predicting hospitalization days, the linear regression model achieved MAE values of 9.03 and 11.3 for patients with and without cancer, respectively. The neural network model achieved MAE values of 7.18 and 10.78 for patients with and without cancer, respectively. These values suggest relatively good predictions, with an average error of around one week. However, additional metrics assessing variance may be used for further evaluation.
 
-Future work could involve creating new input variables using complete data versions, as this study utilized minimal datasets. Studies like ⁸ could provide insights into incorporating additional attributes, such as hemogram results containing hemoglobin, platelets, leukocytes, lymphocytes, monocytes, basophils, eosinophils and other relevant parameters, observing their correlations to improve model performance. All that mentioned are improvements that can be made to increase the number of patients that actually died, as the model learned well from patients that didn’t die. One approach to look is that the prediction of dying can be costly and it’s best to be more conservative in complex health problems.
+Future work could involve creating new input variables using complete data versions, as this study utilized minimal datasets. Studies like [8] could provide insights into incorporating additional attributes, such as hemogram results containing hemoglobin, platelets, leukocytes, lymphocytes, monocytes, basophils, eosinophils and other relevant parameters, observing their correlations to improve model performance. All that mentioned are improvements that can be made to increase the number of patients that actually died, as the model learned well from patients that didn’t die. One approach to look is that the prediction of dying can be costly and it’s best to be more conservative in complex health problems.
 
 > ⚠️ Ethics considerations: We underscore the ethical considerations in our classification and regression modeling approach for medical predictions. For future work, we recommend a deeper analysis of potential biases and disparities within historical data, particularly related to gender, race, and other protected characteristics. Additionally, implementing a robust system for ongoing monitoring is crucial to assess the ethical and equitable performance of these models over time. Exploring model interpretation methods is advisable to provide clearer insights into decision-making, thereby enhancing transparency and understanding. Furthermore, establishing protocols for disputes and appeals will enable individuals to question predictions perceived as unfair or inaccurate. These recommendations aim to strengthen the ethical integrity of future data science applications in the medical domain, fostering more equitable and informed decisions for patients and healthcare professionals.
 
