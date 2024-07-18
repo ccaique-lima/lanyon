@@ -142,31 +142,6 @@ The architecture of the neural network used to build the regressors, which in th
   <figcaption><em>Architecture of the neural network used in the regression.</em></figcaption>
 </figure>
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Centered Figure</title>
-  <style>
-    figure {
-      display: flex;
-      flex-direction: column;
-      align-items: center;
-      text-align: center;
-    }
-  </style>
-</head>
-<body>
-  <figure>
-    <img src="https://raw.githubusercontent.com/ccaique-lima/webpage/gh-pages/assets/architect_nn.png" width="200px" height="auto" alt="Description of Image">
-    <figcaption><em>Architecture of the neural network used in the regression.</em></figcaption>
-  </figure>
-</body>
-</html>
-
-
-
 <br>
 
 ### Classification Models
