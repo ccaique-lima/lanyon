@@ -26,15 +26,15 @@ Firstly, the dataset has been preprocessed and filtered to focus on patients wit
 
 After that, 10 steps were taken, the following being described:
 
-1. Removed rows with unidentified values in the 'race' column and rows with marital status 'N'.
-2. Merged admission and diagnosis data using the Pandas library based on the 'hadm id'.
-3. Created a new column indicating cancer diagnosis from the presence of “malignant neoplasm” in the diagnosis title. Added columns for related diagnoses based on expert insights and literature [4,5,6]. Removed duplicate rows.
-4. Filtered the dataset to include only the percentage of neutrophil count (item id 515256).
-5. Merged lab events and item descriptions based on the item id.
-6. Filtered the data to retain only relevant rows for the chosen lab test.
-7. Created new features by calculating mean, median, count, max and min values of exam results per admission. Removed duplicate rows.
-8. Merged admission, diagnosis and lab events data into a consolidated dataset.
-9. Removed undesired columns, checked for missing values, created columns for patient survival, hospitalization days and ensure data integrity.
+1. Removed rows with unidentified values in the 'race' column and rows with marital status 'N';
+2. Merged admission and diagnosis data using the Pandas library based on the 'hadm id';
+3. Created a new column indicating cancer diagnosis from the presence of “malignant neoplasm” in the diagnosis title. Added columns for related diagnoses based on expert insights and literature [4,5,6]. Removed duplicate rows;
+4. Filtered the dataset to include only the percentage of neutrophil count (item id 515256);
+5. Merged lab events and item descriptions based on the item id;
+6. Filtered the data to retain only relevant rows for the chosen lab test;
+7. Created new features by calculating mean, median, count, max and min values of exam results per admission. Removed duplicate rows;
+8. Merged admission, diagnosis and lab events data into a consolidated dataset;
+9. Removed undesired columns, checked for missing values, created columns for patient survival, hospitalization days and ensure data integrity;
 10. Conducted exploratory data analysis with visualizations to validate data treatment and gain insights into hospitalization days and neutrophil count distribution for patients with and without cancer.
 
 <br>
@@ -99,9 +99,9 @@ Blue lines indicate a Pearson correlation between pairs greater than or equal to
 ### Steps Adopted in Modeling
 
 Four steps were employed in the modeling process, including:
-1. Data Splitting (Train-Test Split): The data was split into training and testing sets using a random seed, with 70% for training and 30% for testing.
-2. Data Normalization: The data was normalized using Min-Max Scaling for the training set.
-3. Model Training: The models were trained, including a classification model to predict patient mortality and a regression model to predict hospitalization days for both cancer and non-cancer patients.
+1. Data Splitting (Train-Test Split): The data was split into training and testing sets using a random seed, with 70% for training and 30% for testing;
+2. Data Normalization: The data was normalized using Min-Max Scaling for the training set;
+3. Model Training: The models were trained, including a classification model to predict patient mortality and a regression model to predict hospitalization days for both cancer and non-cancer patients;
 4. Model Evaluation: The models were evaluated on the test set, using specific metrics for each case.
 
 These steps were followed for both the regression and classification models, with the only difference being the option to perform class balancing for the classification problem of predicting patient mortality. Additionally, one-hot encoding was applied to the categorical variables before training the models.
@@ -118,11 +118,11 @@ Also observing the correlation graph, as input to the models, those variables we
 
 In this work, the evaluation metrics popularly applied to regression problems were used, namely: the coefficient of determination (R2), the mean absolute error (MAE), the root mean squared error (RMSE) and the mean squared error (MSE). Each of these metrics is briefly described below:
 
-R2: indicates how much the regression model explains the variability of the data, ranging from 0 to 1.
+R2: indicates how much the regression model explains the variability of the data, ranging from 0 to 1;
 
-MAE: Average of the absolute differences between the observed and predicted values by the model.
+MAE: Average of the absolute differences between the observed and predicted values by the model;
 
-RMSE: Mean square root of the squared differences between the observed and predicted values by the model.
+RMSE: Mean square root of the squared differences between the observed and predicted values by the model;
 
 MSE: Mean squared errors between the observed and predicted values by the model.
 
@@ -141,6 +141,30 @@ The architecture of the neural network used to build the regressors, which in th
   <img src="https://raw.githubusercontent.com/ccaique-lima/webpage/gh-pages/assets/architect_nn.png" width="200px" height="auto" alt="Description of Image">
   <figcaption><em>Architecture of the neural network used in the regression.</em></figcaption>
 </figure>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Centered Figure</title>
+  <style>
+    figure {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      text-align: center;
+    }
+  </style>
+</head>
+<body>
+  <figure>
+    <img src="https://raw.githubusercontent.com/ccaique-lima/webpage/gh-pages/assets/architect_nn.png" width="200px" height="auto" alt="Description of Image">
+    <figcaption><em>Architecture of the neural network used in the regression.</em></figcaption>
+  </figure>
+</body>
+</html>
+
 
 
 <br>
