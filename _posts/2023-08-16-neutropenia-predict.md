@@ -14,7 +14,7 @@ In this post, we aim to leverage the data collected from the Medical Information
 
 ### Wait. What is neutropenia and why it is relevant?
 
-Neutropenia is one of the most concerning complications of chemotherapy and its prediction remains difficult [2] and this is when machine learning comes into place. If we can model this problem to early detect the possibility of dying and staying for a long time at the hospital based on the exams we can apply AI to a critical disease and guide clinical treatment decisions [3].
+Neutropenia is one of the most concerning complications of chemotherapy and its prediction remains difficult [2] and this is when machine learning comes into place. If we can model this problem to early detect the possibility of dying and staying for a long time at the hospital based on the exams we can apply AI (artificial intelligence) to a critical disease and guide clinical treatment decisions [3].
 
 > ⚠️ Important Statement: It is important to emphasize that although the problem was initially presented by a medical professional, the final results have not been reviewed by medical experts. Our team comprises computer science students and our primary aim is to showcase the application of data science tools to this issue. As such, this work serves as an illustrative example of how data science techniques can be applied to address challenges in the medical domain. It’s important to note that while our findings are presented here, no definitive medical conclusions should be drawn from this study.
 
@@ -26,8 +26,8 @@ Firstly, the dataset has been preprocessed and filtered to focus on patients wit
 
 After that, 10 steps were taken, the following being described:
 
-1. Removed rows with unidentified values in the ‘race’ column and rows with marital status ‘N.’
-2. Merged admission and diagnosis data using the Pandas library based on the hadm id.
+1. Removed rows with unidentified values in the 'race' column and rows with marital status 'N'.
+2. Merged admission and diagnosis data using the Pandas library based on the 'hadm id'.
 3. Created a new column indicating cancer diagnosis from the presence of “malignant neoplasm” in the diagnosis title. Added columns for related diagnoses based on expert insights and literature [4,5,6]. Removed duplicate rows.
 4. Filtered the dataset to include only the percentage of neutrophil count (item id 515256).
 5. Merged lab events and item descriptions based on the item id.
