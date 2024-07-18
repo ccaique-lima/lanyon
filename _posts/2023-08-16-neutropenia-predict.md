@@ -16,7 +16,7 @@ In this post, we aim to leverage the data collected from the Medical Information
 
 Neutropenia is one of the most concerning complications of chemotherapy and its prediction remains difficult [2] and this is when machine learning comes into place. If we can model this problem to early detect the possibility of dying and staying for a long time at the hospital based on the exams we can apply AI to a critical disease and guide clinical treatment decisions [3].
 
-Important Statement: It is important to emphasize that although the problem was initially presented by a medical professional, the final results have not been reviewed by medical experts. Our team comprises computer science students and our primary aim is to showcase the application of data science tools to this issue. As such, this work serves as an illustrative example of how data science techniques can be applied to address challenges in the medical domain. It’s important to note that while our findings are presented here, no definitive medical conclusions should be drawn from this study.
+> ⚠️ Important Statement: It is important to emphasize that although the problem was initially presented by a medical professional, the final results have not been reviewed by medical experts. Our team comprises computer science students and our primary aim is to showcase the application of data science tools to this issue. As such, this work serves as an illustrative example of how data science techniques can be applied to address challenges in the medical domain. It’s important to note that while our findings are presented here, no definitive medical conclusions should be drawn from this study.
 
 <br>
 
