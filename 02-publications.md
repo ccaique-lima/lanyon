@@ -26,7 +26,7 @@ title: Publications
 <details>
   <summary>Journal articles</summary>
 
-<b>LIMA, C. S.</b>; BERTOCCO, F. C.; DE OLIVEIRA, J. I. V.; DE SOUZA, T. M. F.; DA SILVA, E. P.; VON ZUBEN, F. J. Assessment of Samsung Galaxy Watch4 PPG-Based Heart Rate During Light-to-Vigorous Physical Activities in IEEE Sensors Letters, vol. 8, no. 7, pp. 1-4, July 2024. https://doi.org/10.1109/LSENS.2024.3408089
+<li><b>LIMA, C. S.</b>; BERTOCCO, F. C.; DE OLIVEIRA, J. I. V.; DE SOUZA, T. M. F.; DA SILVA, E. P.; VON ZUBEN, F. J. Assessment of Samsung Galaxy Watch4 PPG-Based Heart Rate During Light-to-Vigorous Physical Activities in IEEE Sensors Letters, vol. 8, no. 7, pp. 1-4, July 2024. <a href="https://doi.org/10.1109/LSENS.2024.3408089">doi.org/10.1109/LSENS.2024.3408089</a> </li>
 
 
 </details>
@@ -39,7 +39,7 @@ title: Publications
 <details>
   <summary>Thesis</summary>
 
-LIMA, C. S. OxiTidy: motion artifact detection-reduction in photoplethysmographic signals using artificial neural networks. 123 p. [Dissertation](https://repositorio.ufscar.br/handle/ufscar/16780) (Master’s in Electrical Engineering) – Department of Electrical Engineering, Federal University of São Carlos, São Carlos, 2022.
+<li>LIMA, C. S. OxiTidy: motion artifact detection-reduction in photoplethysmographic signals using artificial neural networks. 123 p. [Dissertation](https://repositorio.ufscar.br/handle/ufscar/16780) (Master’s in Electrical Engineering) – Department of Electrical Engineering, Federal University of São Carlos, São Carlos, 2022. </li>
 
 
 </details>
