@@ -3,9 +3,10 @@ layout: page
 title: Publications
 ---
 
-{% details Read more about that **thing**... %}
-  That **thing** is...
-{% enddetails %}
+<details open>
+    <summary>some summary</summary>
+    some opened collapsible
+</details>
 
 
 <details>
