@@ -3,6 +3,18 @@ layout: page
 title: Publications
 ---
 
+<div id="section1">
+  <h1>Section 1</h1>
+  <p>Section 1 content</p>
+  <div id="section1-1">
+    <h2>Section1-1</h2>
+    <p>section 1-1 content</p>
+  </div>
+    <div id="section1-2">
+    <h2>Section1-2</h2>
+    <p>section 1-2 content</p>
+  </div>
+</div>
 
 
 <details>
