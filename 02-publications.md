@@ -4,7 +4,7 @@ title: Publications
 ---
 
 <details>
-  <summary>Click to expand</summary>
+  <summary> ### Click to expand</summary>
 
   - Item 1
   - Item 2
