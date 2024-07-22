@@ -4,7 +4,7 @@ title: Publications
 ---
 
 <details>
-  <summary><h3>Conference Proceedings</h3>h3></summary>
+  <summary><h3>Conference Proceedings</h3></summary>
 
   - Item 1
   - Item 2
