@@ -3,11 +3,14 @@ layout: page
 title: Publications
 ---
 
-::::expand{header="Click here to expand"}
+<details>
+	<summary>Click to expand</summary>
+	<pre>
+		
+	Long content here
+	</pre>
 
-This text will be visible when the block is expanded.
-
-::::
+</details>
 
 
 <details>
