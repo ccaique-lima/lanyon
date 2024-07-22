@@ -10,8 +10,7 @@ title: Publications
 
 <li><b>LIMA, C. S.</b>; AROCA, R. V.; HERNANDES, A. C. OxiTidy v.1: Motion Artifact Detection in Photoplethysmographic Signals Using Artificial Neural Network. XXIV Congresso Brasileiro de Automática - CBA 2022, Fortaleza-CE, 2022. <a href="https://doi.org/10.20906/CBA2022/3554">doi.org/10.20906/CBA2022/3554</a> </li><br>
 
-CAMARGO, A. K. F.; <b>LIMA, C. S.</b>; ROSSO, R; SOUZA, V. M.; TURINA, G. Estação Meteorológica Automática para Captação, Armazenamento e Transmissão de Parâmetros Meteorológicos: Um Projeto Internacional em Madagascar. <a href="https://www.conic-semesp.org.br/anais/anais-conic.php?ano=2019&act=autores">Anais do Conic-Semesp</a>, v. 7, São Paulo-SP, 2019. 
-  <br> <br>
+<li>CAMARGO, A. K. F.; <b>LIMA, C. S.</b>; ROSSO, R; SOUZA, V. M.; TURINA, G. Estação Meteorológica Automática para Captação, Armazenamento e Transmissão de Parâmetros Meteorológicos: Um Projeto Internacional em Madagascar. <a href="https://www.conic-semesp.org.br/anais/anais-conic.php?ano=2019&act=autores">Anais do Conic-Semesp</a>, v. 7, São Paulo-SP, 2019.</li>
 
 CAMARGO, A. K. F.; <b>LIMA, C. S.</b>; ROSSO, R; SOUZA, V. M.; TURINA, G. Estação Meteorológica Automática para Captação e Transmissão de Parâmetros Climáticos: Um Projeto Extensionista Internacional em Madagascar. [Anais da XIX Mostra de Produção Científica do Centro Universitário Salesiano de São Paulo](assets/poster_bitsal_2019.pdf), Lorena-SP, 2019. <br> <br>
   
