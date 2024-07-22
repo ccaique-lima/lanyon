@@ -7,7 +7,8 @@ title: Publications
 	<summary>Click to expand</summary>
 	<pre>
 		
-	Long content here
+	- <b>LIMA, C. S.</b>; AROCA, R. V.; HERNANDES, A. C. OxiTidy v.1: Motion Artifact Detection in Photoplethysmographic Signals Using Artificial Neural Network. XXIV Congresso Brasileiro de Automática - CBA 2022, Fortaleza-CE, 2022. https://doi.org/10.20906/CBA2022/3554
+ 
 	</pre>
 
 </details>
