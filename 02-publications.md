@@ -16,7 +16,7 @@ title: Publications
   
 <li><b>LIMA, C. S.</b>; VIEIRA, W. M. Inteligência artificial: o futuro do trabalho no século XXI. <a href="https://github.com/ccaique-lima/webpage/blob/8fda19ab0c6c6835fb3c13cbb7f1e8782ebfbf66/assets/poster_bicsal_2018.pdf">Anais da XVIII Mostra de Produção Científica do Centro Universitário Salesiano de São Paulo</a>, Lorena-SP, 2018. </li><br>
   
-<li><b>LIMA, C. S.</b>; MARTINS, M. ROBOCAM: Dispositivo Robótico para Inspeção em Espaço Confinado. <a href="https://github.com/ccaique-lima/webpage/blob/8fda19ab0c6c6835fb3c13cbb7f1e8782ebfbf66/assets/poster_bitsal_2017.pdf)">Anais da XVII Mostra de Produção Científica do Centro Universitário Salesiano de São Paulo</a>, Campinas-SP, 2017. </li><br>
+<li><b>LIMA, C. S.</b>; MARTINS, M. ROBOCAM: Dispositivo Robótico para Inspeção em Espaço Confinado. <a href="https://github.com/ccaique-lima/webpage/blob/8fda19ab0c6c6835fb3c13cbb7f1e8782ebfbf66/assets/poster_bitsal_2017.pdf">Anais da XVII Mostra de Produção Científica do Centro Universitário Salesiano de São Paulo</a>, Campinas-SP, 2017. </li><br>
 
 </details>
 
