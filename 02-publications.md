@@ -4,7 +4,7 @@ title: Publications
 ---
 
 <details>
-  <<summary>### Click to expand</summary>
+  <summary><h3>Conference Proceedings</h3></summary>
 
   - Item 1
   - Item 2
