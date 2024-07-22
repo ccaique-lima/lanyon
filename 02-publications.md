@@ -3,6 +3,19 @@ layout: page
 title: Publications
 ---
 
+<details>
+  <summary>Click to expand</summary>
+
+  - Item 1
+  - Item 2
+  - Item 3
+
+</details>
+
+
+
+
+
 ### Conference Proceedings
 
 <b>LIMA, C. S.</b>; AROCA, R. V.; HERNANDES, A. C. OxiTidy v.1: Motion Artifact Detection in Photoplethysmographic Signals Using Artificial Neural Network. [XXIV
